@@ -1,0 +1,293 @@
+{
+  "categorias": [
+    {
+      "titulo": "Física",
+      "link": "/",
+      "cor": "#880088",
+      "link_extra": {
+        "text": "Veja mais vídeos de Física",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "O Espaço-Tempo Explicado",
+          "url": "https://www.youtube.com/watch?v=kJ5xNaSIeTI"
+        }, 
+        {
+          "titulo": "O Que É Energia? | Episódio 1",
+          "url": "https://www.youtube.com/watch?v=3VLPyOLC1nc&t=11s"
+        },
+        {
+          "titulo": "Como Sabemos que a Terra Não Está Parada? | Primata Falante",
+          "url": "https://www.youtube.com/watch?v=nWWLMFFgif8"
+        },
+        {
+          "titulo": "As 3 Leis de Newton EXPLICADAS",
+          "url": "https://www.youtube.com/watch?v=B2u8FYE9fWk"
+        },
+        {
+          "titulo": "Por que a bola de futebol faz curva? - Pergunte à Física 7 | BláBláLogia",
+          "url": "https://www.youtube.com/watch?v=5gp8PM3PJp8"
+        },
+        {
+          "titulo": "Você é Maior e Menor que Pensa | Um bate papo sobre escalas e unidades de medida.",
+          "url": "https://www.youtube.com/watch?v=2RQXH8q_ZlQ"
+        },
+        {
+          "titulo": "Quer que desenhe? Tempo é relativo.",
+          "url": "https://www.youtube.com/watch?v=91Y0kpB1kBk"
+        },
+        
+        {
+          "titulo": "O que é um Referencial? | Primata Falante",
+          "url": "https://www.youtube.com/watch?v=E8JvKeX5VZk"
+        },
+        {
+          "titulo": "Fluxo de calor de seu Pet - Pergunte à Física 9 | BláBláLogia",
+          "url": "https://www.youtube.com/watch?v=BVrqUJrncc4"
+        },
+        {
+          "titulo": "Como Sabemos a Idade da Terra? | Primata Falante",
+          "url": "https://www.youtube.com/watch?v=0hneGByrT00"
+        },
+        {
+          "titulo": "Por Que o Espaço NÃO é Frio?",
+          "url": "https://www.youtube.com/watch?v=YiIG1_q8ug0"
+        },
+        {
+          "titulo": "Pararraios e o poder das pontas | Pergunte à Física #13",
+          "url": "https://www.youtube.com/watch?v=n6rgvmXmkhA"
+        },
+           
+        {
+          "titulo": "Como Nós Enxergamos? (A Física da Visão) | Primata Falante",
+          "url": "https://www.youtube.com/watch?v=sNHm0AwviHY"
+        },
+        {
+          "titulo": "Blindagem Eletrostática | Gaiola de Faraday | Pergunte à Física",
+          "url": "https://www.youtube.com/watch?v=ZiA9RfzY16Q"
+        },
+        {
+          "titulo": "Dá pra Confiar na Ciência? | Primata Falante",
+          "url": "https://www.youtube.com/watch?v=Muh01Tft5Vo"
+        }       
+      ]
+    },
+    {
+      "titulo": "Biologia",
+      "cor": "#880088",
+      "link_extra": {
+        "text": "Veja mais vídeos de Biologia",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "CACHORROS NÃO EXISTEM",
+          "url": "https://www.youtube.com/watch?v=MPOF218tbGw"
+        },
+        {
+          "titulo": "por que os NEANDERTAIS DESAPARECERAM?",
+          "url": "https://www.youtube.com/watch?v=pmi8oHAQAuE"
+        },
+        {
+          "titulo": "In Memoriam - Lynn Margulis e a mitocôndria (#Pirula 9)",
+          "url": "https://www.youtube.com/watch?v=X4JQKdW8PiY"
+        },
+        {
+          "titulo": "A PRIMEIRA VACINA",
+          "url": "https://www.youtube.com/watch?v=kP5bl6KfWfY"
+        },
+        
+        {
+          "titulo": "VOCÊ é um PEIXE",
+          "url": "https://www.youtube.com/watch?v=BdWeOsAWqz8"
+        }, 
+        {
+          "titulo": "Sim, somos todos macacos (#Pirula 79)",
+          "url": "https://www.youtube.com/watch?v=Q-X3gGKyq0M"
+        },
+        {
+          "titulo": "Biodiversidade 1 - Quantas são as espécies? (#Pirula 136.2)",
+          "url": "https://www.youtube.com/watch?v=88utcbkjQcU"
+        },
+        {
+          "titulo": "por que você NUNCA viu BEBÊS POMBOS?",
+          "url": "https://www.youtube.com/watch?v=U20OnvgTHxo"
+        },
+        {
+          "titulo": "O que é um animal? (ZO 02)",
+          "url": "https://www.youtube.com/watch?v=CDA5DSPUYlo"
+        },
+        {
+          "titulo": "P.C.R.Evo [1] - Por que ainda existem macacos? (#Evolução)",
+          "url": "https://www.youtube.com/watch?v=LBjDKpml85c&t=305s"
+        },
+        {
+          "titulo": "O que é uma espécie, afinal? (#Pirula 305)",
+          "url": "https://www.youtube.com/watch?v=1F9zlmjx6OE"
+        },
+        {
+          "titulo": "ANIMAIS deviam ter RODAS",
+          "url": "https://www.youtube.com/watch?v=Esxr72SyJ1E"
+        },
+        {
+          "titulo": "Como sabemos a cor dos dinossauros? (#Pirula 243)",
+          "url": "https://www.youtube.com/watch?v=WF3RF21_41c"
+        },
+        {
+          "titulo": "A evolução dos gatos",
+          "url": "https://www.youtube.com/watch?v=u2yNGMRPB_0"
+        },
+        {
+          "titulo": "a EVOLUÇÃO HUMANA em MARTE",
+          "url": "https://www.youtube.com/watch?v=PAbbXwjEttA&t=3s"
+        },
+        {
+          "titulo": "As Evidências da Evolução [3] - Em nossos corpos!",
+          "url": "https://www.youtube.com/watch?v=TaNNnP5zTzY"
+        },
+
+        {
+          "titulo": "Cladística - reconstruindo a Evolução (#Pirula 94)",
+          "url": "https://www.youtube.com/watch?v=SAoFkZczm2Y"
+        },
+        {
+          "titulo": "Evolução e Dispersão dos mamíferos [REPOST] (#Pirula 62)",
+          "url": "https://www.youtube.com/watch?v=GTad-8hVc_Q"
+        }
+      ]
+    },
+    {
+      "titulo": "Matemática",
+      "cor": "#880088",
+      "link_extra": {
+        "text": "Veja mais vídeos de Matemática",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "PARADOXOS, COMPUTADORES & TEOREMA DAS 4 CORES",
+          "url": "https://www.youtube.com/watch?v=qysR-m0NLsU"
+        },
+        {
+          "titulo": "MENTINDO COM GRÁFICOS - Aprenda a ler gráficos (e não ser enganado) | Porque sim não é resposta",
+          "url": "https://www.youtube.com/watch?v=duodDus_Wuc"
+        },
+        {
+          "titulo": "A SEQUÊNCIA DE FIBONACCI",
+          "url": "https://www.youtube.com/watch?v=eVbOxWVC_GY"
+        },
+        {
+          "titulo": "COMO SOMAR FRAÇÕES SEM USAR MMC | Porque sim não é resposta",
+          "url": "https://www.youtube.com/watch?v=xKLs73pY4l0"
+        },
+        {
+          "titulo": "ALGUMAS VERDADES SOBRE O INFINITO | A Matemaníaca",
+          "url": "https://www.youtube.com/watch?v=UJe_usRGfx8"
+        },
+        {
+          "titulo": "EQUAÇÃO DO 2o GRAU: POR QUE BHASKARA FUNCIONA? | Porque sim não é resposta",
+          "url": "https://www.youtube.com/watch?v=9MNnMB3zOCM"
+        },
+        {
+          "titulo": "PITÁGORAS: por quê funciona? - Demonstração do Teorema de Pitágoras | Porque sim não é resposta",
+          "url": "https://www.youtube.com/watch?v=kn1RglZFLkE"
+        },
+        {
+          "titulo": "EQUAÇÃO DO 1o GRAU: PASSA PARA LÁ COM SINAL INVERTIDO? | Porque sim não é resposta",
+          "url": "https://www.youtube.com/watch?v=TtE5Hs0oC5Y"
+        },
+        {
+          "titulo": "Jogamos BHÁSKARA na AMOEBA e olha no que deu!",
+          "url": "https://www.youtube.com/watch?v=S_JW43dDhts"
+        },
+        {
+          "titulo": "REGRA DOS SINAIS: POR QUE MAIS COM MENOS DA MENOS? | Porque sim não é resposta",
+          "url": "https://www.youtube.com/watch?v=UT1PoTLYe9A"
+        }
+      ]
+    },
+    
+    
+    {
+      "titulo": "História",
+      "cor": "#880088",
+      "link_extra": {
+        "text": "Veja mais vídeos de História",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "O PRIMEIRO HOMO SAPIENS! | Canal do Slow",
+          "url": "https://www.youtube.com/watch?v=0PaSt7Z46b0"
+        },
+        {
+          "titulo": "OS VIKINGS! - A Origem de Tudo 3",
+          "url": "https://www.youtube.com/watch?v=DVDD3HmKRRI"
+        },
+        {
+          "titulo": "ALEXANDRE, O GRANDE! | Canal do Slow 55",
+          "url": "https://www.youtube.com/watch?v=EAhul5r1HQU"
+        },
+        {
+          "titulo": "OS PRIMEIROS BRASILEIROS! | Canal do Slow 43",
+          "url": "https://www.youtube.com/watch?v=Zrh4Gzrs2Yw"
+        },
+        {
+          "titulo": "GRÉCIA ANTIGA! 1/2 | #Canal do Slow 20",
+          "url": "https://www.youtube.com/watch?v=b6a9CvhAuwg"
+        }
+      ]
+    },
+    {
+      "titulo": "Diversos",
+      "cor": "#880088",
+      "link_extra": {
+        "text": "Ver mais vídeos da seção Diversos",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "5 COISAS QUE VOCÊ PODE VER HOJE!",
+          "url": "https://www.youtube.com/watch?v=CHVUgfw0Rzo"
+        },
+        {
+          "titulo": "5 MOTIVOS PARA NÃO IR PRA MARTE!",
+          "url": "https://www.youtube.com/watch?v=97Xwe0Ml83k"
+        },
+        {
+          "titulo": "ÍNDIO! - Épica Ciência???",
+          "url": "https://www.youtube.com/watch?v=mXIVVU3-vms"
+        },
+        {
+          "titulo": "AQUELE VÍDEO DE CIÊNCIA - PSVVU",
+          "url": "https://www.youtube.com/watch?v=IWqQeiwMgco"
+        },
+        {
+          "titulo": "COMO OS HIERÓGLIFOS FORAM TRADUZIDOS? - PSVVU",
+          "url": "https://www.youtube.com/watch?v=aM8kUa01Q4A"
+        },
+        {
+          "titulo": "COMO SABEMOS QUE O UNIVERSO ESTÁ SE EXPANDINDO? - PSVVU",
+          "url": "https://www.youtube.com/watch?v=TEvOG50L2lA"
+        },
+        {
+          "titulo": "QUANTAS GALÁXIAS NO UNIVERSO - PSVVU?",
+          "url": "https://www.youtube.com/watch?v=KJkyEU1fvR0"
+        },
+        {
+          "titulo": "♬ E se o MICHAEL JACKSON fizesse uma MÚSICA para o ENEM? ♬ ft. Rodrigo Teaser",
+          "url": "https://www.youtube.com/watch?v=X0m_x1_i-eY"
+        },
+        {
+          "titulo": "♬ E se SANDY e JÚNIOR fizessem uma MÚSICA para o ENEM? ♬ ",
+          "url": "https://www.youtube.com/watch?v=KF-gcglcJPw"
+        }
+      ]
+    }
+  ]
+}
