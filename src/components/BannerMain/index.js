@@ -28,7 +28,7 @@ export default function BannerMain({
           <img className="divertido" src={Divertido} alt="divertido" />
           </ContentAreaContainer.Title>
 
-          <ContentAreaContainer.Description>
+          <ContentAreaContainer.Description style={{fontSize:'1.5em', color: "thistle"}}>
             {videoDescription}
           </ContentAreaContainer.Description>
         </ContentAreaContainer.Item>
