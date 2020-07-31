@@ -6,13 +6,9 @@
       "cor": "#880088",
       "link_extra": {
         "text": "Veja mais vídeos de Física",
-        "url": "/"
+        "url": "/fisica"
       },
       "videos": [
-        {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-        },
         {
           "titulo": "O Espaço-Tempo Explicado",
           "url": "https://www.youtube.com/watch?v=kJ5xNaSIeTI"
@@ -288,6 +284,60 @@
           "url": "https://www.youtube.com/watch?v=KF-gcglcJPw"
         }
       ]
+    },
+      {
+        "titulo": "Diversos",
+        "cor": "#880088",
+        "link_extra": {
+          "text": "Ver mais vídeos da seção Diversos",
+          "url": "/"
+      },
+        "videos": [
+          {
+            "titulo": "Velocidade da Luz e Relatividade | Relatividade #01",
+            "url": "https://www.youtube.com/watch?v=GHi2aT79Tbg&t=18s"
+          },
+          {
+            "titulo": "O Tempo é Relativo? | Relatividade #02",
+            "url": "https://www.youtube.com/watch?v=g2vzs-4hJII"
+          },
+          {
+            "titulo": "O Princípio da Relatividade | Relatividade #03",
+            "url": "https://www.youtube.com/watch?v=62UUufZCT6w"
+          },
+          {
+            "titulo": "A Velocidade da Luz Muda? | Relatividade #04",
+            "url": "https://www.youtube.com/watch?v=iWu7aWQ7k-4"
+          },
+          {
+            "titulo": "Como Einstein Mudou a História | Relatividade #05",
+            "url": "https://www.youtube.com/watch?v=NTXl6uAVi2g"
+          },
+          {
+            "titulo": "Dá pra Ultrapassar a Velocidade da Luz? | Relatividade #06",
+            "url": "https://www.youtube.com/watch?v=Y2__5N_xbRo"
+          },
+          {
+            "titulo": "https://www.youtube.com/watch?v=1vcYaSGhYZ0",
+            "url": "https://www.youtube.com/watch?v=1vcYaSGhYZ0"
+          },
+          {
+            "titulo": "Evidências da Relatividade | Relatividade #08",
+            "url": "https://www.youtube.com/watch?v=tjZyNJl0U6M"
+          },
+          {
+            "titulo": "O Paradoxo dos Gêmeos (com Ponto em Comum) | Relatividade #09",
+            "url": "https://www.youtube.com/watch?v=A2lCvOUxL9E"
+          },
+          {
+            "titulo": "É Possível Viajar pro Passado? | Relatividade #10",
+            "url": "https://www.youtube.com/watch?v=gJbO_QFUfp4"
+          },
+          {
+            "titulo": "Galileu vs Einstein | Abrindo as Contas",
+            "url": "https://www.youtube.com/watch?v=JTSU7qaOAF8"
+          }
+        ]
     }
   ]
 }

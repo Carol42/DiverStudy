@@ -1,0 +1,61 @@
+.Container{
+    margin-left: 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+h1{
+    color: violet;
+    font-size: xx-large;
+}
+
+.Button{
+    grid-row-start: 2;
+    color: thistle;
+    background-color: purple;
+    border: 1px solid thistle;
+    box-sizing: border-box;
+    cursor: pointer;
+    padding: 16px 24px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    outline: none;
+    border-radius: 5px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity .3s;
+    max-width: 50%;
+}
+.Button:hover,
+.Button:focus {
+  opacity: .5;
+}
+
+.ButtonCadastro{
+    grid-row-start: 2;
+    color: thistle;
+    background-color: purple;
+    border: 1px solid thistle;
+    box-sizing: border-box;
+    cursor: pointer;
+    padding: 16px 24px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    outline: none;
+    border-radius: 5px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity .3s;
+    max-width: 50%;
+}
+.ButtonCadastro:hover,
+.ButtonCadastro:focus {
+  opacity: .5;
+}

@@ -4,8 +4,10 @@ import './index.css';
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from './pages/Home';
+import FisicaRelatividade from './pages/materias/Fisica/relatividade'
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
+import Fisica from './pages/materias/Fisica';
 
 // Desafio master blaster na descrição
 // Colocar um jogo ou brincadeira nessa página:
@@ -31,6 +33,10 @@ ReactDOM.render(
       <Route path="/" component={Home} exact />
       <Route path="/cadastro/video" component={CadastroVideo} />
       <Route path="/cadastro/categoria" component={CadastroCategoria} />
+      <Route path="/fisica/relatividade" component={FisicaRelatividade} />
+      <Route path="/fisica" component={Fisica} />
+
+
       <Route component={Pagina404} />
     </Switch>
   </BrowserRouter>,
