@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-filename-extension */
 import React from 'react';
 import PropTypes from 'prop-types';
 import styled, { css } from 'styled-components';
@@ -72,6 +73,7 @@ const Input = styled.input`
 function FormField({
   label, type, name, value, onChange,
 }) {
+  const fieldId = `id_${name}`;
   const isTypeTextArea = type === 'textarea';
   const tag = isTypeTextArea ? 'textarea' : 'input';
 
@@ -80,6 +82,7 @@ function FormField({
       <Label>
         <Input
           as={tag}
+          id={fieldId}
           type={type}
           value={value}
           name={name}
