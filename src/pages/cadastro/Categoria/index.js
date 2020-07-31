@@ -38,7 +38,9 @@ function CadastroCategoria() {
         .then(async (respostaDoServer) => {
           if (respostaDoServer.ok) {
             const resposta = await respostaDoServer.json();
-            setCategorias(resposta);
+            setCategorias([
+              ...resposta,
+            ]);
             return;
           }
           throw new Error('Não foi possível pegar os dados');
@@ -83,9 +85,15 @@ function CadastroCategoria() {
         </button>
       </form>
 
+      {categorias.length === 0 && (
+      <div>
+        Loading...
+      </div>
+      )}
+
       <ul>
-        {categorias.map((categoria, indice) => (
-          <li key={`${categoria}${indice}`}>
+        {categorias.map((categoria) => (
+          <li key={`${categoria}`}>
             {categoria.titulo}
           </li>
         ))}

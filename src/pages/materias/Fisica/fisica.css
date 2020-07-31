@@ -20,7 +20,7 @@ h1{
     padding: 16px 24px;
     font-style: normal;
     font-weight: bold;
-    font-size: 32px;
+    font-size: 26px !important;
     outline: none;
     border-radius: 5px;
     text-decoration: none;

@@ -1,0 +1,9 @@
+{
+    "categorias": [
+        {
+        "id": 1,
+        "nome": "Física",
+        "descricao": "Relatividade, Física Básica, Física Quântica e mais!"
+        }
+    ]
+}

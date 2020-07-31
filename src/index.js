@@ -18,7 +18,7 @@ const Pagina404 = () => (
     display: 'flex', alignItems: 'center', justifyContent: 'flex-start', flexDirection: 'column', height: '100%',
   }}>
     <h1 style={{ margin: 0, color: '#880088', fontSize: '2.2em' }}>Ops, quebrou tudo :O</h1>
-    // eslint-disable-next-line key-spacing
+
     <p style={{ color: '#880088', fontSize: '1.2em' }}>
       Você pode jogar ou
       {' '}
