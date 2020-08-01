@@ -59,3 +59,12 @@ h1{
 .ButtonCadastro:focus {
   opacity: .5;
 }
+
+#top{
+  min-width: 100px;
+}
+
+.buttonWrapper{
+  display: flex;
+  justify-content: space-around;
+}

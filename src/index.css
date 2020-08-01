@@ -35,3 +35,13 @@ a {
   display: flex;
   flex-direction: column;
 }
+
+.icons{
+  width: 200px;
+  height: 200px;
+}
+
+.book{
+  max-width: auto;
+  max-height: 75px;
+}

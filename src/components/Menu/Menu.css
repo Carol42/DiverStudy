@@ -73,3 +73,8 @@ body {
     text-align: center;
   }
 }
+
+#menuItem1, #menuItem2, #newVideo{
+  border: none;
+  text-decoration: none;
+}

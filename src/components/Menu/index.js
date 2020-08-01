@@ -3,7 +3,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Logo from '../../assets/img/Logo.png';
 import './Menu.css';
-import Button from '../Button';
+// import Button from '../Button';
+import Livros from '../../assets/img/book.png';
 // import ButtonLink from './components/ButtonLink';
 
 function Menu() {
@@ -12,10 +13,13 @@ function Menu() {
       <Link to="/">
         <img className="Logo" src={Logo} alt="logo" />
       </Link>
-
-      <Button as={Link} className="ButtonLink" to="/cadastro/video">
-        Novo vídeo
-      </Button>
+      <p className="ButtonLink" id="menuItem1">
+        Categorias
+      </p>
+      <img className="book" src={Livros} alt="livros" />
+      <p as={Link} className="ButtonLink" id="menuItem2">
+        <a href="/cadastro/video" id="newVideo">Novo vídeo</a>
+      </p>
     </nav>
   );
 }

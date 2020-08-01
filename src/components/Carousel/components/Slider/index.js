@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable react/jsx-filename-extension */
 /* eslint-disable react/jsx-props-no-spreading */
 import React from 'react';
 import SlickSlider from 'react-slick';
@@ -29,6 +31,16 @@ const Container = styled.ul`
   .slick-next {
     right: 16px;
   }
+
+  .slick-dots li button:before{
+    color: white;
+  }
+  .slick-dots li.slick-active button:before {
+    color: purple;
+  }
+  .slick-dots {
+    margin-bottom: -30px;
+  }
 `;
 
 export const SliderItem = styled.li`
@@ -47,17 +59,20 @@ export const SliderItem = styled.li`
   }
 `;
 
-
 const Slider = ({ children }) => (
   <Container>
     <SlickSlider {...{
-      dots: false,
+      dots: true,
       infinite: true,
       speed: 300,
       centerMode: false,
       variableWidth: true,
       adaptiveHeight: true,
       swipeToSlide: true,
+      slidesToShow: 3,
+      slidesToScroll: 1,
+      autoplay: true,
+      autoplaySpeed: 2000,
     }}
     >
       {children}
@@ -65,4 +80,4 @@ const Slider = ({ children }) => (
   </Container>
 );
 
-export default Slider; 
+export default Slider;

@@ -5,7 +5,7 @@
       "link": "/",
       "cor": "#880088",
       "link_extra": {
-        "text": "Veja mais vídeos de Física",
+        "text": "Clique aqui para ver mais vídeos de Física",
         "url": "/fisica"
       },
       "videos": [
@@ -85,7 +85,7 @@
       "titulo": "Biologia",
       "cor": "#880088",
       "link_extra": {
-        "text": "Veja mais vídeos de Biologia",
+        "text": "Clique aqui para ver mais vídeos de Biologia",
         "url": "/"
       },
       "videos": [
@@ -169,7 +169,7 @@
       "titulo": "Matemática",
       "cor": "#880088",
       "link_extra": {
-        "text": "Veja mais vídeos de Matemática",
+        "text": "Clique aqui para ver mais vídeos de Matemática",
         "url": "/"
       },
       "videos": [
@@ -221,7 +221,7 @@
       "titulo": "História",
       "cor": "#880088",
       "link_extra": {
-        "text": "Veja mais vídeos de História",
+        "text": "Clique aqui para ver mais vídeos de História",
         "url": "/"
       },
       "videos": [
@@ -251,7 +251,7 @@
       "titulo": "Diversos",
       "cor": "#880088",
       "link_extra": {
-        "text": "Ver mais vídeos da seção Diversos",
+        "text": "Clique aqui para mais vídeos da seção Diversos",
         "url": "/"
       },
       "videos": [
@@ -294,10 +294,10 @@
       ]
     },
       {
-        "titulo": "Diversos",
+        "titulo": "Relatividade",
         "cor": "#880088",
         "link_extra": {
-          "text": "Ver mais vídeos da seção Diversos",
+          "text": "",
           "url": "/"
       },
         "videos": [
