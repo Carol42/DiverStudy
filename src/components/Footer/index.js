@@ -10,7 +10,7 @@ function Footer() {
         <img src={Logo} alt="Logo" />
       </a>
       <p>
-        2020&#169; Criado por
+        &#169;2020 Criado por
         {' '}
         <a href="https://github.com/Carol42">Caroline H Oliveira</a>
         {' '}
