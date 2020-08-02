@@ -65,6 +65,7 @@ h1{
 }
 
 .buttonWrapper{
-  display: flex;
+  display: grid;
   justify-content: space-around;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
 }
