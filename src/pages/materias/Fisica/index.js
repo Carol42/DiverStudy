@@ -21,12 +21,56 @@ function Fisica() {
           as={Link}
           className="Button"
           to="/fisica/"
-        />
-        <Button
+        >
+	Eletrostática 
+	</Button>
+	        <Button
           as={Link}
           className="Button"
           to="/fisica/"
-        />
+        >
+	Eletrodinâmica
+	</Button>
+	
+            <Button
+          as={Link}
+          className="Button"
+          to="/fisica/"
+        >
+	Cinemática 
+	</Button>
+	        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/"
+        >
+	Termodinâmica
+	</Button>
+	        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/"
+        >
+	Ondulatória
+	</Button>
+	
+	        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/"
+        >
+	Física Quântica
+	</Button>
+
+	  <Button
+          as={Link}
+          className="Button"
+          to="/fisica/"
+        >
+	Experimentos
+	</Button>
+
+
       </div>
 
     </div>
