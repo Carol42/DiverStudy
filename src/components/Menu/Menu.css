@@ -71,10 +71,16 @@ body {
     border-radius: 0;
     border: 0;
     text-align: center;
+    text-decoration: none;
   }
 }
 
-#menuItem1, #menuItem2, #newVideo{
+#menuItem1, #menuItem2, #menuItem3{
+  text-decoration: none !important;
   border: none;
+  font-size: 24px;
+}
+
+#contribuir, #login{
   text-decoration: none;
 }

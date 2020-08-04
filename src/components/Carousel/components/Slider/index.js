@@ -70,7 +70,7 @@ const Slider = ({ children }) => (
       adaptiveHeight: true,
       swipeToSlide: true,
       slidesToShow: 3,
-      slidesToScroll: 1,
+      slidesToScroll: 2,
       autoplay: true,
       autoplaySpeed: 2000,
     }}

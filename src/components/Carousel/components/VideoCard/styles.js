@@ -1,3 +1,4 @@
+/* eslint-disable import/prefer-default-export */
 import styled from 'styled-components';
 
 export const VideoCardContainer = styled.a`
@@ -18,6 +19,7 @@ export const VideoCardContainer = styled.a`
   display: flex;
   align-items: flex-end;
   padding: 16px;
+  padding-bottom: 100px;
 
   transition: opacity .3s;
   &:hover,
@@ -27,5 +29,16 @@ export const VideoCardContainer = styled.a`
   
   &:not(:first-child) {
     margin-left: 20px;
-  }
+  }`;
+
+export const VideoCardBanner = styled.p`
+  width: 100%;
+  padding: 10px;
+  position: absolute;
+  bottom: -16px;
+  margin-left: -16px;
+  display: block;
+  transition: display 300ms;
+  opacity: .8;
+
 `;

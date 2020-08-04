@@ -20,6 +20,14 @@ function Footer() {
           Imersão React da Alura
         </a>
       </p>
+      <p>
+        Imensos agradecimentos a
+        <a href="https://www.alura.com.br/"> Alura, </a>
+        <a href="https://twitter.com/juunegreiros">Juliana Negreiros, </a>
+        <a href="https://twitter.com/paulo_caelum">Paulo Silveira, </a>
+        <a href="https://twitter.com/marcobrunodev">Marco Bruno e </a>
+        <a href="https://twitter.com/omariosouto">Mario Souto</a>
+      </p>
     </FooterBase>
   );
 }

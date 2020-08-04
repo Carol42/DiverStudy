@@ -10,6 +10,9 @@ import FisicaRelatividade from './pages/materias/Fisica/relatividade';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
 import Fisica from './pages/materias/Fisica';
+import Contribuir from './pages/contribuir';
+import Login from './pages/login';
+import CadastroUser from './pages/cadastroUser';
 
 // Desafio master blaster na descrição
 // Colocar um jogo ou brincadeira nessa página:
@@ -50,6 +53,9 @@ ReactDOM.render(
       <Route path="/cadastro/categoria" component={CadastroCategoria} />
       <Route path="/fisica/relatividade" component={FisicaRelatividade} />
       <Route path="/fisica" component={Fisica} />
+      <Route path="/contribuir" component={Contribuir} />
+      <Route path="/login" component={Login} />
+      <Route path="/cadastro/user" component={CadastroUser} />
 
       <Route component={Pagina404} />
     </Switch>

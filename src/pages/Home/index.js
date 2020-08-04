@@ -15,7 +15,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription="Divirta-se e aprofunde seus conhecimentos com a nossa seleção de vídeos de diversos criadores de conteúdos com o compromisso de trazer informação de forma confiável e acessível."
+        videoDescription="Divirta-se e aprofunde seus conhecimentos com a nossa seleção de vídeos de diversos criadores de conteúdos com o compromisso de trazer informação de forma confiável e acessível. Professor? Compartilhe seus próprios conteúdos!"
       />
       {/* <a className="icons">
         <i className="fas fa-atom" />
