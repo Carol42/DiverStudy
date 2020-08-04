@@ -49,7 +49,7 @@ function CadastroUser(
       </p>
       <p>
         Já possui cadastro?
-        <a href="/login">Faça Login</a>
+        <a href="/login"> Faça Login</a>
       </p>
     </PageDefault>
   );

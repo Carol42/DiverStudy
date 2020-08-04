@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d23a5745.chunk.css",
+    "main.js": "/static/js/main.628e102b.chunk.js",
+    "main.js.map": "/static/js/main.628e102b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e60e2cc1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e60e2cc1.js.map",
+    "static/js/2.85acd238.chunk.js": "/static/js/2.85acd238.chunk.js",
+    "static/js/2.85acd238.chunk.js.map": "/static/js/2.85acd238.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.82a52ff46d8fdf459e411d989a7a2cc5.js": "/precache-manifest.82a52ff46d8fdf459e411d989a7a2cc5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d23a5745.chunk.css.map": "/static/css/main.d23a5745.chunk.css.map",
+    "static/js/2.85acd238.chunk.js.LICENSE.txt": "/static/js/2.85acd238.chunk.js.LICENSE.txt",
+    "static/media/Divertido.png": "/static/media/Divertido.acd100f6.png",
+    "static/media/Logo.png": "/static/media/Logo.1465689c.png",
+    "static/media/livros1.png": "/static/media/livros1.c2636d4b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e60e2cc1.js",
+    "static/js/2.85acd238.chunk.js",
+    "static/css/main.d23a5745.chunk.css",
+    "static/js/main.628e102b.chunk.js"
+  ]
+}

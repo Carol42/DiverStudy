@@ -6,6 +6,7 @@ import dadosIniciais from '../../data/dados_iniciais.json';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import Footer from '../../components/Footer';
+import ScrollToTop from '../../components/ScrollTop';
 
 function Home() {
   return (
@@ -39,7 +40,7 @@ function Home() {
       <Carousel
         category={dadosIniciais.categorias[4]}
       />
-
+      <ScrollToTop />
       <Footer />
     </div>
   );
