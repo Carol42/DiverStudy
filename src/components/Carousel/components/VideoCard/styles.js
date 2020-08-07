@@ -20,6 +20,7 @@ export const VideoCardContainer = styled.a`
   align-items: flex-end;
   padding: 16px;
   padding-bottom: 100px;
+  margin-left: 20px;
 
   transition: opacity .3s;
   &:hover,
@@ -39,6 +40,6 @@ export const VideoCardBanner = styled.p`
   margin-left: -16px;
   display: block;
   transition: display 300ms;
-  opacity: .8;
+  opacity: 1;
 
 `;

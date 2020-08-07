@@ -7,6 +7,7 @@ import Button from '../../../components/Button';
 // import Footer from '../../../components/Footer';
 import './fisica.css';
 import { Link } from 'react-router-dom';
+import dadosIniciais from '../../../data/dados_iniciais.json';
 
 function Fisica() {
   return (
@@ -14,62 +15,74 @@ function Fisica() {
       <Menu />
       <div className="Container">
         <h1>Física</h1>
-        <Button as={Link} to="/fisica/relatividade" className="Button">
-          Relatividade
+        <Button
+          as={Link}
+          to="/fisica/relatividade"
+          className="Button"
+        >
+          {dadosIniciais.categorias[5].titulo}
         </Button>
         <Button
           as={Link}
           className="Button"
-          to="/fisica/"
+          to="/fisica/fisica-quantica"
         >
-	Eletrostática 
-	</Button>
-	        <Button
+          {dadosIniciais.categorias[6].titulo}
+        </Button>
+        <Button
           as={Link}
           className="Button"
-          to="/fisica/"
+          to="/fisica/eletromagnetismo"
         >
-	Eletrodinâmica
-	</Button>
-	
-            <Button
-          as={Link}
-          className="Button"
-          to="/fisica/"
-        >
-	Cinemática 
-	</Button>
-	        <Button
-          as={Link}
-          className="Button"
-          to="/fisica/"
-        >
-	Termodinâmica
-	</Button>
-	        <Button
-          as={Link}
-          className="Button"
-          to="/fisica/"
-        >
-	Ondulatória
-	</Button>
-	
-	        <Button
-          as={Link}
-          className="Button"
-          to="/fisica/"
-        >
-	Física Quântica
-	</Button>
+          {dadosIniciais.categorias[7].titulo}
+        </Button>
 
-	  <Button
+        <Button
           as={Link}
           className="Button"
-          to="/fisica/"
+          to="/fisica/ondulatoria"
         >
-	Experimentos
-	</Button>
+          {dadosIniciais.categorias[8].titulo}
+        </Button>
+        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/optica"
+        >
+          {dadosIniciais.categorias[9].titulo}
+        </Button>
+        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/termodinamica"
+        >
+          {dadosIniciais.categorias[10].titulo}
+        </Button>
 
+        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/hidrostatica"
+        >
+          {dadosIniciais.categorias[11].titulo}
+        </Button>
+
+        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/leis-de-newton"
+        >
+          {dadosIniciais.categorias[12].titulo}
+
+        </Button>
+        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/movimento"
+        >
+          {dadosIniciais.categorias[13].titulo}
+
+        </Button>
 
       </div>
 

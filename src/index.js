@@ -13,6 +13,14 @@ import Fisica from './pages/materias/Fisica';
 import Contribuir from './pages/contribuir';
 import Login from './pages/login';
 import CadastroUser from './pages/cadastroUser';
+import FisicaQuantica from './pages/materias/Fisica/quantica';
+import Eletromagnetismo from './pages/materias/Fisica/eletromagnetismo';
+import Ondulatoria from './pages/materias/Fisica/ondulatoria';
+import Optica from './pages/materias/Fisica/optica';
+import Termodinamica from './pages/materias/Fisica/termodinamica';
+import Hidrostatica from './pages/materias/Fisica/hidrostatica';
+import LeisDeNewton from './pages/materias/Fisica/leis-de-newton';
+import Movimento from './pages/materias/Fisica/movimento';
 
 // Desafio master blaster na descrição
 // Colocar um jogo ou brincadeira nessa página:
@@ -50,14 +58,24 @@ ReactDOM.render(
     <Switch>
       <Route path="/" component={Home} exact />
       <Route path="/cadastro/video" component={CadastroVideo} />
-      <Route path="/cadastro/categoria" component={CadastroCategoria} />
-      <Route path="/fisica/relatividade" component={FisicaRelatividade} />
-      <Route path="/fisica" component={Fisica} />
       <Route path="/contribuir" component={Contribuir} />
       <Route path="/login" component={Login} />
       <Route path="/cadastro/user" component={CadastroUser} />
+      <Route path="/cadastro/categoria" component={CadastroCategoria} />
+
+      <Route path="/fisica" component={Fisica} exact />
+      <Route path="/fisica/fisica-quantica" component={FisicaQuantica} />
+      <Route path="/fisica/eletromagnetismo" component={Eletromagnetismo} />
+      <Route path="/fisica/relatividade" component={FisicaRelatividade} />
+      <Route path="/fisica/ondulatoria" component={Ondulatoria} />
+      <Route path="/fisica/optica" component={Optica} />
+      <Route path="/fisica/termodinamica" component={Termodinamica} />
+      <Route path="/fisica/hidrostatica" component={Hidrostatica} />
+      <Route path="/fisica/leis-de-newton" component={LeisDeNewton} />
+      <Route path="/fisica/movimento" component={Movimento} />
 
       <Route component={Pagina404} />
+
     </Switch>
   </BrowserRouter>,
   document.getElementById('root'),

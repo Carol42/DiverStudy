@@ -367,6 +367,243 @@
           }
          
         ]
+    },
+    {
+      "titulo": "Física Quântica",
+      "cor": "#880088",
+      "link_extra": {
+        "text": "",
+        "url": "/"
+    },
+      "videos": [
+        {
+          "titulo": "O que NÃO É a Física Quântica | Primata Falante",
+          "url": "https://www.youtube.com/watch?v=4rNI2esH1EE"
+        },
+        {
+          "titulo": "ISSO Desafia as Leis da Física! | Primata Falante",
+          "url": "https://www.youtube.com/watch?v=D7rE3ibkXzM"
+        },
+
+        {
+          "titulo": "A Física Quântica Prova que seu Pensamento Muda a Realidade? | Primata Falante",
+          "url": "https://www.youtube.com/watch?v=xbc0Y3Ok6Gk"
+        },
+        {
+          "titulo": "A Física Quântica no Guia do Mochileiro das Galáxias | Ciência Nerd",
+          "url": "https://www.youtube.com/watch?v=-1aWEPwYM-0"
+        },
+        {
+          "titulo": "Por Que a Física Quântica é QUÂNTICA? | Papo de Físico #02",
+          "url": "https://www.youtube.com/watch?v=TUy_PI9zTjg"
+        },
+        {
+          "titulo": "Místicos quânticos não são inofensivos",
+          "url": "https://www.youtube.com/watch?v=FGjtWntUhIM"
+        },
+        {
+          "titulo": "A Rebeldia dos Elétrons | Desmistificando a Física Quântica #01",
+          "url": "https://www.youtube.com/watch?v=8A8TE5JbqJA"
+        },
+        {
+          "titulo": "* O Acidente que Deu à Luz a Física Quântica | Desmistificando a Física Quântica #01.a",
+          "url": "https://www.youtube.com/watch?v=-BDFVyniENI&t=51s"
+        },
+        {
+          "titulo": "O Observador Define a Realidade? (A Sobreposição Quântica) | Desmistificando a Física Quântica #02",
+          "url": "https://www.youtube.com/watch?v=YKOo6bZ9nx4&t=43s"
+        },
+        {
+          "titulo": "* Os Guerreiros Esquecidos da Física Quântica | Desmistificando a Física Quântica #02.a",
+          "url": "https://www.youtube.com/watch?v=TBZObTrTYJQ"
+        },
+        {
+          "titulo": "Como VER elétrons? (o que é \"OBSERVAR\"?) | Desmistificando a Física Quântica 03 - parte 1",
+          "url": "https://www.youtube.com/watch?v=PcJ68bmRevM"
+        }
+     
+       
+      ]
+  },
+  {
+    "titulo": "Eletromagnetismo",
+    "cor": "#880088",
+    "link_extra": {
+      "text": "",
+      "url": "/"
+  },
+    "videos": [
+      {
+        "titulo": "A História do Eletromagnetismo",
+        "url": "https://www.youtube.com/watch?v=EOrQnkL9IxY"
+      }
+   
+     
+    ]
+},
+{
+  "titulo": "Ondulatória",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "O que é uma Onda?",
+      "url": "https://www.youtube.com/watch?v=M2D5-zXlD6A"
+    },
+    
+    {
+      "titulo": "Como o Som Funciona?",
+      "url": "https://www.youtube.com/watch?v=WLM6-By0qBg"
+    },
+    {
+      "titulo": "O Efeito Doppler Explicado",
+      "url": "https://www.youtube.com/watch?v=78WkQObqp3U"
     }
+ 
+   
+  ]
+},
+{
+  "titulo": "Óptica",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "Do que a luz é feita?",
+      "url": "https://www.youtube.com/watch?v=7K04QZQ1jsU"
+    },
+    
+    {
+      "titulo": "A Lei de Snell Explicada (Como a Refração Funciona?)",
+      "url": "https://www.youtube.com/watch?v=EaTG8HCcKwU"
+    },
+    {
+      "titulo": "Espelhos Planos, Côncavos e Convexos (Como as Imagens se Formam?)",
+      "url": "https://www.youtube.com/watch?v=KPykPLP7osA"
+    },
+    
+    {
+      "titulo": "Interferência e Difração Explicadas",
+      "url": "https://www.youtube.com/watch?v=edidweXxbqU"
+    }
+
+ 
+   
+  ]
+},
+{
+  "titulo": "Termodinâmica",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "A Lei ZERO da Termodinâmica",
+      "url": "https://www.youtube.com/watch?v=8fo8_m-qP9M"
+    },
+    
+    {
+      "titulo": "A Primeira Lei da Termodinâmica Explicada",
+      "url": "https://www.youtube.com/watch?v=U_2AJc1mcas"
+    },
+    {
+      "titulo": "A ENTROPIA EXPLICADA",
+      "url": "https://www.youtube.com/watch?v=qjHfkfIs1Ug"
+    },
+    {
+      "titulo": "Lei dos Gases Ideais e o Ciclo de Carnot",
+      "url": "https://www.youtube.com/watch?v=q75HFKTzWJA"
+    }
+ 
+   
+  ]
+},
+{
+  "titulo": "Hidrostática",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "Os Três Estados da Matéria | Episódio 10",
+      "url": "https://www.youtube.com/watch?v=qsjUpTKB73A"
+    },
+    
+    {
+      "titulo": "DENSIDADE, PRESSÃO e o PRINCÍPIO DE PASCAL",
+      "url": "https://www.youtube.com/watch?v=5cmtwJcTXzw"
+    },
+    {
+      "titulo": "Empuxo e o Princípio de Arquimedes",
+      "url": "https://www.youtube.com/watch?v=57qs91GBscU"
+    }
+ 
+   
+  ]
+},
+{
+  "titulo": "Leis de Newton",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "A Primeira Lei de Newton (Lei da Inércia) Explicada | Episódio 4",
+      "url": "https://www.youtube.com/watch?v=RoyecFxgwTs"
+    },
+    
+    {
+      "titulo": "A Segunda Lei de Newton Explicada | Episódio 5",
+      "url": "https://www.youtube.com/watch?v=gS1FnfzG-lg"
+    },
+    {
+      "titulo": "A Terceira Lei de Newton Explicada | Episódio 6",
+      "url": "https://www.youtube.com/watch?v=Ei6DcLyNuyI"
+    },
+    {
+      "titulo": "IMPULSO | Episódio 7",
+      "url": "https://www.youtube.com/watch?v=b0lk_OAGgQw"
+    },
+    {
+      "titulo": "O TEOREMA DO TRABALHO-ENERGIA | Episódio 8",
+      "url": "https://www.youtube.com/watch?v=h0W5Z4tTqjc"
+    }
+ 
+   
+  ]
+},
+{
+  "titulo": "Movimento",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "A Teoria do Movimento | Episódio 2",
+      "url": "https://www.youtube.com/watch?v=X6mQcBdFkXQ"
+    },
+    
+    {
+      "titulo": "Quantidade de Movimento Explicada (Momento) | Episódio 3",
+      "url": "https://www.youtube.com/watch?v=Seb29XUjakk"
+    }
+ 
+   
+  ]
+}
   ]
 }

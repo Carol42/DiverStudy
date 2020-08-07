@@ -9,24 +9,25 @@ import Button from '../../../../components/Button';
 import ScrollToTop from '../../../../components/ScrollTop';
 import { SubTitle } from '../styles';
 
-function FisicaRelatividade() {
+function Hidrostatica() {
   return (
     <div style={{ background: '#141414' }}>
       <Menu />
       <div className="videosWrapper">
         <>
           <SubTitle style={{ backgroundColor: 'purple' }}>
-            {dadosIniciais.categorias[5].titulo}
+            {dadosIniciais.categorias[11].titulo}
           </SubTitle>
         </>
         <GroupVideos
-          category={dadosIniciais.categorias[5]}
+          category={dadosIniciais.categorias[11]}
         />
         <div className="buttonWrapper">
           <Button as={Link} to="/fisica" className="Button">
             Voltar para Física
           </Button>
           <ScrollToTop />
+
         </div>
       </div>
 
@@ -35,4 +36,4 @@ function FisicaRelatividade() {
   );
 }
 
-export default FisicaRelatividade;
+export default Hidrostatica;

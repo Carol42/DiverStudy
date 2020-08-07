@@ -66,5 +66,5 @@ h1{
 .buttonWrapper{
   display: flex;
   justify-content: space-around;
-  
+  margin-top: 25px;
 }
