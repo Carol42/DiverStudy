@@ -4,7 +4,7 @@ import PaginasEspecificas from '../../../../components/paginasEspecificas';
 
 function Ondulatoria() {
   return (
-    <PaginasEspecificas posicao="8" />
+    <PaginasEspecificas posicao="8" endereco="/fisica" materia="Física" />
   );
 }
 

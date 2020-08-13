@@ -4,7 +4,7 @@ import PaginasEspecificas from '../../../../components/paginasEspecificas';
 
 function Eletromagnetismo() {
   return (
-    <PaginasEspecificas posicao="7" />
+    <PaginasEspecificas posicao="7" endereco="/fisica" materia="Física" />
   );
 }
 

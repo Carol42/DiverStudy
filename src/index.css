@@ -45,3 +45,28 @@ a {
   max-width: auto;
   max-height: 75px;
 }
+
+.ButtonSubmit{
+  color: thistle;
+  border: 1px solid thistle;
+  background-color: #880088;
+  box-sizing: border-box;
+  cursor: pointer;
+  padding: 16px 24px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  outline: none;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  transition: opacity .3s;
+  margin-bottom: 30px;
+
+ 
+}
+.ButtonSubmit:hover,
+.ButtonSubmit:focus {
+  opacity: .5;
+  color: thistle;
+}

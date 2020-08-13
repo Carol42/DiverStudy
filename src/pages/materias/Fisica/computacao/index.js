@@ -2,10 +2,10 @@
 import React from 'react';
 import PaginasEspecificas from '../../../../components/paginasEspecificas';
 
-function FisicaRelatividade() {
+function Computacao() {
   return (
-    <PaginasEspecificas posicao="5" endereco="/fisica" materia="Física" />
+    <PaginasEspecificas posicao="19" endereco="/fisica" materia="Física" />
   );
 }
 
-export default FisicaRelatividade;
+export default Computacao;

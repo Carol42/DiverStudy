@@ -4,6 +4,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../components/PageDefault';
 import FormField from '../../components/FormField';
+import Button from '../../components/Button';
 // import Button from '../../components/Button';
 
 function CadastroUser(
@@ -44,9 +45,9 @@ function CadastroUser(
         name="nome"
         value={[]}
       />
-      <p as={Link} className="ButtonLink">
-        <a href="/login" id="login">Cadastrar</a>
-      </p>
+      <Button as={Link} to="/login" className="ButtonSubmit" type="submit">
+        Cadastrar
+      </Button>
       <p>
         Já possui cadastro?
         <a href="/login"> Faça Login</a>

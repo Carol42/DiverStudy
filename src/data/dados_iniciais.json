@@ -5,7 +5,7 @@
       "link": "/",
       "cor": "#880088",
       "link_extra": {
-        "text": "Clique aqui para ver mais vídeos de Física",
+        "text": "Entre na página de Física clicando aqui :)",
         "url": "/fisica"
       },
       "videos": [
@@ -85,8 +85,8 @@
       "titulo": "Biologia",
       "cor": "#880088",
       "link_extra": {
-        "text": "Clique aqui para ver mais vídeos de Biologia",
-        "url": "/"
+        "text": "Entre na página de Biologia clicando aqui :)",
+        "url": "/biologia"
       },
       "videos": [
         {
@@ -169,7 +169,7 @@
       "titulo": "Matemática",
       "cor": "#880088",
       "link_extra": {
-        "text": "Clique aqui para ver mais vídeos de Matemática",
+        "text": "Entre na página de Matemática clicando aqui :)",
         "url": "/"
       },
       "videos": [
@@ -221,7 +221,7 @@
       "titulo": "História",
       "cor": "#880088",
       "link_extra": {
-        "text": "Clique aqui para ver mais vídeos de História",
+        "text": "Entre na página de História clicando aqui :)",
         "url": "/"
       },
       "videos": [
@@ -251,7 +251,7 @@
       "titulo": "Diversos",
       "cor": "#880088",
       "link_extra": {
-        "text": "Clique aqui para mais vídeos da seção Diversos",
+        "text": "Entre na página Diversos clicando aqui :)",
         "url": "/"
       },
       "videos": [
@@ -364,6 +364,30 @@
           {
             "titulo": "E=mc² [4 - Relatividade]",
             "url": "https://www.youtube.com/watch?v=mQHDYtsBz7c"
+          },
+          {
+            "titulo": "O Espaço-Tempo Explicado",
+            "url": "https://www.youtube.com/watch?v=kJ5xNaSIeTI"
+          },
+          {
+            "titulo": "A Gravidade NÃO é uma Força",
+            "url": "https://www.youtube.com/watch?v=opqXAInbAaU"
+          },
+          {
+            "titulo": "O homem que corrigiu EINSTEIN! | Minuto da Física",
+            "url": "https://www.youtube.com/watch?v=-HwRqoJN1UA"
+          },
+          {
+            "titulo": "Qual foi o maior ERRO de EINSTEIN? | Minuto da Física",
+            "url": "https://www.youtube.com/watch?v=MORwTy5EapY"
+          },
+          {
+            "titulo": "E=mc² está Incompleta",
+            "url": "https://www.youtube.com/watch?v=E5_RH3h-0eE"
+          },
+          {
+            "titulo": "Como o BRASIL provou que EINSTEIN estava certo",
+            "url": "https://www.youtube.com/watch?v=u9pBT5i3h6A"
           }
          
         ]
@@ -420,6 +444,46 @@
         {
           "titulo": "Como VER elétrons? (o que é \"OBSERVAR\"?) | Desmistificando a Física Quântica 03 - parte 1",
           "url": "https://www.youtube.com/watch?v=PcJ68bmRevM"
+        },
+        {
+          "titulo": "Computadores Quânticos Explicados",
+          "url": "https://www.youtube.com/watch?v=92eSz2X0AlU"
+        },
+        {
+          "titulo": "Os Problemas da Mecânica Quântica",
+          "url": "https://www.youtube.com/watch?v=Dh5TFPuJXKw"
+        },
+        {
+          "titulo": "Física Quântica EXPLICADA",
+          "url": "https://www.youtube.com/watch?v=eA1E2HGdbKg"
+        },
+        {
+          "titulo": "Como a Mecânica Quântica Está Salvando Vidas",
+          "url": "https://www.youtube.com/watch?v=uLJjjKc2Taw"
+        },
+        {
+          "titulo": "O Gato de Schrödinger Explicado",
+          "url": "https://www.youtube.com/watch?v=pKEq8d_1pn4"
+        },
+        {
+          "titulo": "O Entrelaçamento Quântico Explicado",
+          "url": "https://www.youtube.com/watch?v=Q9J4ArjheD8"
+        },
+        {
+          "titulo": "A Catástrofe Ultravioleta",
+          "url": "https://www.youtube.com/watch?v=LKoqBFot_H4&t=30s"
+        },
+        {
+          "titulo": "Como é possível o Algoritmo de Shor fatorizar 314191? | Minuto da Física",
+          "url": "https://www.youtube.com/watch?v=9PgFqnOCscA"
+        },
+        {
+          "titulo": "Como computadores quânticos quebram a criptografia (Algoritmo de Shor Explicado)",
+          "url": "https://www.youtube.com/watch?v=jA2FxG95iU8"
+        },
+        {
+          "titulo": "O que é o Gato de Schrödinger? | Minuto da Física",
+          "url": "https://www.youtube.com/watch?v=ndZl7L_ciAQ"
         }
      
        
@@ -436,9 +500,199 @@
       {
         "titulo": "A História do Eletromagnetismo",
         "url": "https://www.youtube.com/watch?v=EOrQnkL9IxY"
-      }
-   
-     
+      },
+      {
+        "titulo": "As Equações de Maxwell Explicadas",
+        "url": "https://www.youtube.com/watch?v=sMpJ3Vn0bfE"
+      },
+      {
+        "titulo": "Energia, Trabalho e o Potencial Eletrostático",
+        "url": "https://www.youtube.com/watch?v=fHaE8AKlrH8"
+      },
+      {
+        "titulo": "Como Funcionam os Resistores e Capacitores?",
+        "url": "https://www.youtube.com/watch?v=e_hU6sAON2U"
+      },
+      {
+        "titulo": "Como Ímãs Funcionam? (Ímãs Explicados)",
+        "url": "https://www.youtube.com/watch?v=agoy2NlJUJc"
+      },
+      {
+        "titulo": "As baterias íon-lítio vão dominar o mundo! | Minuto da Física",
+        "url": "https://www.youtube.com/watch?v=Tw7XpZUqA5E"
+      },
+      {
+        "titulo": "o que causa a AURORA BOREAL?",
+        "url": "https://www.youtube.com/watch?v=ctgItKp1s4A"
+      },
+      {
+        "titulo": "Inversão dos pólos magnéticos | Nerdologia",
+        "url": "https://www.youtube.com/watch?v=ZJCBM1SZ-FY&list=TLPQMTMwODIwMjBzoD64euioDQ&index=3"
+      },
+      {
+        "titulo": "Como fazer MÁQUINA DE CHOQUES com forma de pizza",
+        "url": "https://www.youtube.com/watch?v=vklSPA4ay_4&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=39&t=0s"
+      },
+      {
+        "titulo": "MOTOR DE PISTÃO ELETROMAGNÉTICO",
+        "url": "https://www.youtube.com/watch?v=3xJrPQs0jE0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=43&t=0s"
+      },
+      {
+        "titulo": "Você nunca mais vai ver um ÍMÃ do mesmo jeito!",
+        "url": "https://www.youtube.com/watch?v=9z5yaUKlsTM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=44&t=0s"
+      },
+      {
+        "titulo": "HAND SPINNER MAGNÉTICO 4.0",
+        "url": "https://www.youtube.com/watch?v=Dp72SwBDc0U&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=48&t=0s"
+      },
+      {
+        "titulo": "Achei 5 SUPERÍMÃS dentro do CELULAR!",
+        "url": "https://www.youtube.com/watch?v=iJpDcgUH3mI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=53&t=0s"
+      },
+      {
+        "titulo": "Homemade magnetic train (Physics experiment)",
+        "url": "https://www.youtube.com/watch?v=eTjrWF8sOHw&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=55&t=0s"
+      },
+      {
+        "titulo": "Como fazer uma CATAPULTA ELETROMAGNÉTICA",
+        "url": "https://www.youtube.com/watch?v=JRg4dc71Scs&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=56&t=0s"
+      },
+      {
+        "titulo": "Como transmitir eletricidade sem fios (energia wireless)",
+        "url": "https://www.youtube.com/watch?v=sMfAotrPEkI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=72&t=0s"
+      },
+      {
+        "titulo": "Como escrever no aço usando eletricidade",
+        "url": "https://www.youtube.com/watch?v=zT7EHQm4WpE&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=77&t=0s"
+      },
+      {
+        "titulo": "Fizemos o MOTOR ESTRELA ELETROMAGNÉTICO!",
+        "url": "https://www.youtube.com/watch?v=hbKmflCpl6E&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=22&t=0s"
+      },
+      {
+        "titulo": "Como fazer BOLHAS FLUTUAREM com ELETRICIDADE",
+        "url": "https://www.youtube.com/watch?v=zH8EiGKt_BE&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=25&t=0s"
+      },
+      {
+        "titulo": "IMPLOSÃO MAGNÉTICA em CÂMERA LENTA: Experiência com ímã",
+        "url": "https://www.youtube.com/watch?v=xyvwr3nLVj8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=8&t=0s"
+      }, 
+      {
+        "titulo": "Fizemos o MOTOR V8 ELETROMAGNÉTICO!!!",
+        "url": "https://www.youtube.com/watch?v=SwvucPdO6ik&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=34&t=0s"
+      }, 
+      {
+        "titulo": "Como fazer um CANHÃO MAGNÉTICO CASEIRO (CANHÃO DE GAUSS)",
+        "url": "https://www.youtube.com/watch?v=vMErygmHlns&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=100&t=0s"
+      },
+      {
+        "titulo": "Como fazer uma MÁQUINA DE CHOQUES caseira para FEIRA DE CIÊNCIAS",
+        "url": "https://www.youtube.com/watch?v=Lxe4FAI-g6s&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=102&t=0s"
+      },
+      {
+        "titulo": "COMO GERAR ENERGIA só com água (GERADOR TERMOELÉTRICO)",
+        "url": "https://www.youtube.com/watch?v=wLrXYMJs-q8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=104&t=0s"
+      },
+      {
+        "titulo": "Como fazer um GERADOR DE ENERGIA com ÍMÃ em casa",
+        "url": "https://www.youtube.com/watch?v=EzEw_Mg0rcU&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=121&t=0s"
+      },
+      {
+        "titulo": "MINIGERADOR EÓLICO - transforme vento em energia elétrica!",
+        "url": "https://www.youtube.com/watch?v=VKFpp1oljps&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=131&t=0s"
+      },
+      {
+        "titulo": "Como fazer um MOTOR elétrico com um ÍMÃ (EXPERIÊNCIA de FÍSICA)",
+        "url": "https://www.youtube.com/watch?v=3nbDBCg6thM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=132&t=0s"
+      },
+      {
+        "titulo": "EXPERIÊNCIA: Água que foge de ÍMÃS",
+        "url": "https://www.youtube.com/watch?v=cgwCfWONtEU&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=138&t=0s"
+      },
+      {
+        "titulo": "Como escrever com elétrons (EXPERIÊNCIA)",
+        "url": "https://www.youtube.com/watch?v=2BpV2Lj898M&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=142&t=0s"
+      },
+      {
+        "titulo": "ÍMÃS INTELIGENTES (EXPERIMENTOS de FÍSICA)",
+        "url": "https://www.youtube.com/watch?v=gAP9WZEIdeQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=143&t=0s"
+      },
+      {
+        "titulo": "Como acender lâmpada sem usar fios (EXPERIÊNCIA de FÍSICA - Elétrica)",
+        "url": "https://www.youtube.com/watch?v=fQmDmmYA6Nc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=153&t=0s"
+      },
+      {
+        "titulo": "Como fazer uma LÂMPADA CASEIRA (EXPERIÊNCIA de elétrica)",
+        "url": "https://www.youtube.com/watch?v=n4qbPLCiZCc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=157&t=0s"
+      },
+      {
+        "titulo": "Cabo de guerra elétrico - EXPERIÊNCIA de FÍSICA",
+        "url": "https://www.youtube.com/watch?v=Yndkm5VB4I0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=160&t=0s"
+      },
+      {
+        "titulo": "Telepatia do palito (EXPERIÊNCIA de eletrostática)",
+        "url": "https://www.youtube.com/watch?v=x6ddQDBrbV8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=161&t=0s"
+      },
+      {
+        "titulo": "Moedas equilibristas (EXPERIÊNCIA com ÍMÃ)",
+        "url": "https://www.youtube.com/watch?v=2C9cpfpa7ew&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=166&t=0s"
+      },
+      {
+        "titulo": "Detector de elétrons caseiro (ELETROSCÓPIO - EXPERIÊNCIA de FÍSICA)",
+        "url": "https://www.youtube.com/watch?v=qAsesJkyZ4Q&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=174&t=208s"
+      },
+      {
+        "titulo": "ÍMÃ no monitor CRT (EXPERIÊNCIA)",
+        "url": "https://www.youtube.com/watch?v=nZk--_Rh738&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=178&t=0s"
+      },
+      {
+        "titulo": "O tubo antigravidade (EXPERIÊNCIA de FÍSICA - magnetismo)",
+        "url": "https://www.youtube.com/watch?v=_p1oV6sVpo4&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=180&t=0s"
+      },
+      {
+        "titulo": "Furacão com HD (AGITADOR MAGNÉTICO CASEIRO) (EXPERIÊNCIA)",
+        "url": "https://www.youtube.com/watch?v=UzbJiJ-nW0I&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=182&t=0s"
+      },
+      {
+        "titulo": "Pêndulo fantasma elétrico (EXPERIÊNCIA de FÍSICA)",
+        "url": "https://www.youtube.com/watch?v=LyUJVJYxOEs&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=187&t=0s"
+      },
+      {
+        "titulo": "Faça uma BÚSSOLA CASEIRA com uma agulha",
+        "url": "https://www.youtube.com/watch?v=1ItwpRKaKg0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=194&t=0s"
+      },
+      {
+        "titulo": "Como fazer um ÍMÃ elétrico, o ELETROÍMÃ (EXPERIÊNCIA de FÍSICA - eletromagnetismo)",
+        "url": "https://www.youtube.com/watch?v=j2kHpzP7elQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=195&t=147s"
+      },
+      {
+        "titulo": "COMO FAZER UM GERADOR (de verdade) com um DVD player (EXPERIÊNCIA)",
+        "url": "https://www.youtube.com/watch?v=TyANOy7d-kQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=197&t=0s"
+      },
+      {
+        "titulo": "Barata elétrica (mini robô caseiro) (EXPERIÊNCIA)",
+        "url": "https://www.youtube.com/watch?v=POLHJ01vB5M&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=200&t=0s"
+      },
+      {
+        "titulo": "Labirinto elétrico (EXPERIÊNCIA de FÍSICA - FEIRA DE CIÊNCIAS)",
+        "url": "https://www.youtube.com/watch?v=D4KakrCVaI0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=202&t=0s"
+      },
+      {
+        "titulo": "O desvio mágico da água (energia estática)",
+        "url": "https://www.youtube.com/watch?v=qVgU_e8c4zM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=207&t=0s"
+      },
+      {
+        "titulo": "O cereal matinal de ferro - como ver o ferro dos alimentos",
+        "url": "https://www.youtube.com/watch?v=tGWSt0lIIps&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=208&t=0s"
+      } ,
+      {
+        "titulo": "Bolhas explosivas - ELETRÓLISE DA ÁGUA (EXPERIÊNCIA)",
+        "url": "https://www.youtube.com/watch?v=jmVchFkHo4M&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=209&t=0s"
+      } ,
+      {
+        "titulo": "MINIMOTOR ELÉTRICO (EXPERIÊNCIA)",
+        "url": "https://www.youtube.com/watch?v=B2xetiAp-Xg&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=212&t=0s"
+      }       
     ]
 },
 {
@@ -461,7 +715,84 @@
     {
       "titulo": "O Efeito Doppler Explicado",
       "url": "https://www.youtube.com/watch?v=78WkQObqp3U"
+    },
+    {
+      "titulo": "Efeito Doppler",
+      "url": "https://www.youtube.com/watch?v=XfT3rsUhYnA"
+    },
+    {
+      "titulo": "O Que Torna Duas Notas Harmônicas?",
+      "url": "https://www.youtube.com/watch?v=Pd5hBbzs-_Y"
+    },
+    {
+      "titulo": "A Catástrofe Ultravioleta",
+      "url": "https://www.youtube.com/watch?v=LKoqBFot_H4&t=30s"
+    },
+    {
+      "titulo": "Por Que Precisamos da Dualidade Onda-Partícula?",
+      "url": "https://www.youtube.com/watch?v=CgY_zBuK2Cw"
+    },
+    {
+      "titulo": "O Som Mais Alto da História",
+      "url": "https://www.youtube.com/watch?v=iCSgJ2KEkX4"
+    },
+    {
+      "titulo": "Por que o céu não é roxo? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=UvyLPkh2oBs"
+    },
+    {
+      "titulo": "POR QUE O SOL É AMARELO E O CÉU É AZUL? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=FfttJOxqclI"
+    },
+    {
+      "titulo": "De onde vem as notas musicais? | Nerdologia",
+      "url": "https://youtu.be/WNPcFKlzBfg?list=TLPQMTMwODIwMjBzoD64euioDQ"
+    },
+    {
+      "titulo": "O Som do Hidrogênio",
+      "url": "https://www.youtube.com/watch?v=0BEbhsc109A"
+    },
+    {
+      "titulo": "MOTOR que toca música dentro da boca ft. ÁTILA IAMARINO, NERDOLOGIA 🔵Manual do Mundo",
+      "url": "https://www.youtube.com/watch?v=SsVauRbN7mM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=36&t=0s"
+    },
+    {
+      "titulo": "Você está PERDENDO AUDIÇÃO e eu VOU PROVAR!",
+      "url": "https://www.youtube.com/watch?v=uoxtAXN2tnI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=7&t=0s"
+    },
+    {
+      "titulo": "Microfone de caixinha de fósforo",
+      "url": "https://www.youtube.com/watch?v=wU2JuRphDRg&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=87&t=0s"
+    },
+    {
+      "titulo": "Como tirar NOTAS MUSICAIS na PANELA DE PRESSÃO",
+      "url": "https://www.youtube.com/watch?v=7ykYrcT_ZBc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=83&t=0s"
+    },
+    {
+      "titulo": "Disco que TOCA NO CRÂNIO ft. Felipe Castanhari 🔵Manual do Mundo",
+      "url": "https://www.youtube.com/watch?v=PH5bjNpnABU&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=78&t=0s"
+    },
+    {
+      "titulo": "Faça seu PIANO DE GARRAFAS e toque até Beethoven!",
+      "url": "https://www.youtube.com/watch?v=0l5juORZhmE&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=61&t=0s"
+    },
+    {
+      "titulo": "3 gambiarras para melhorar o som do CELULAR",
+      "url": "https://www.youtube.com/watch?v=ZH6RdN7PoFk&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=99&t=0s"
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
     }
+
  
    
   ]
@@ -491,14 +822,123 @@
     {
       "titulo": "Interferência e Difração Explicadas",
       "url": "https://www.youtube.com/watch?v=edidweXxbqU"
+    },
+    {
+      "titulo": "Como Nós Enxergamos? (A Física da Visão) | Primata Falante",
+      "url": "https://www.youtube.com/watch?v=sNHm0AwviHY"
+    },
+    {
+      "titulo": "A Dualidade Onda-Partícula",
+      "url": "https://www.youtube.com/watch?v=BhwQkMGOw5c"
+    },
+    {
+      "titulo": "Por que espelhos invertem horizontalmente (mas não verticalmente)? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=RshdNjyZYv0"
+    },
+    {
+      "titulo": "Fótons fazem sombra? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=TkVJpVFm1Gw"
+    },
+    {
+      "titulo": "Por que o céu não é roxo? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=UvyLPkh2oBs"
+    },
+    {
+      "titulo": "POR QUE O SOL É AMARELO E O CÉU É AZUL? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=FfttJOxqclI"
+    },
+    {
+      "titulo": "Como enxergar sem óculos? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=v_Vo0yX-XCw"
+    },
+    {
+      "titulo": "Arco-Íris explicado em dez segundos",
+      "url": "https://www.youtube.com/watch?v=UQGxdb4-S6A"
+    },
+    {
+      "titulo": "COMO VER SEM ÓCULOS",
+      "url": "https://www.youtube.com/watch?v=M-py4t4zi24"
+    },
+    {
+      "titulo": "Prêmio Nobel de 2012: Como vemos a luz?",
+      "url": "https://www.youtube.com/watch?v=kZ6SupDE_AY"
+    },
+    {
+      "titulo": "Como funciona o raio laser? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=SzclFRNQids"
+    },
+    {
+      "titulo": "Isso NÃO é um arco-íris! | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=ZLpVrUAPeHM"
+    },
+    {
+      "titulo": "Luz | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=YabTFq2aZfE&list=TLPQMTMwODIwMjBzoD64euioDQ&index=5"
+    },
+    {
+      "titulo": "O espelho criador de fantasmas (EXPERIÊNCIA de ÓTICA)",
+      "url": "https://www.youtube.com/watch?v=Y3fMCbXO8gQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=69&t=0s"
+    },{
+      "titulo": "Como entortar raios de luz com açúcar",
+      "url": "https://www.youtube.com/watch?v=gqkSfAfyt30&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=88&t=0s"
+    },
+    {
+      "titulo": "Prendemos a luz numa caixa de espelhos. Olha o resultado!",
+      "url": "https://www.youtube.com/watch?v=60e8i8qLfmA&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=16&t=0s"
+    },
+    {
+      "titulo": "O SEGREDO do efeito MONGA (explicação do holograma caseiro)",
+      "url": "https://www.youtube.com/watch?v=xrAWgmfhOaM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=97&t=0s"
+    },
+    {
+      "titulo": "Como fazer o canhão de luz do Batman - EXPERIMENTOS de FÍSICA",
+      "url": "https://www.youtube.com/watch?v=3Yrg6Are9YQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=128&t=0s"
+    },
+    {
+      "titulo": "Faça um MICROSCÓPIO caseiro com CELULAR (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=HwHJhti5fLs&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=129&t=0s"
+    },
+    {
+      "titulo": "LENTE OLHO DE PEIXE caseira para CELULAR",
+      "url": "https://www.youtube.com/watch?v=Srk2ToJR58o&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=109&t=0s"
+    },
+    {
+      "titulo": "Como fazer um espelho infinito (EXPERIÊNCIA de ÓTICA)",
+      "url": "https://www.youtube.com/watch?v=SbkMKMNRoD0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=167&t=0s"
+    },
+    {
+      "titulo": "Como fazer um PROJETOR DE CELULAR caseiro passo a passo",
+      "url": "https://www.youtube.com/watch?v=eVhLQBPZqUI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=173&t=0s"
+    },
+    {
+      "titulo": "A luz que faz curva na água (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=F69tWoZa4ic&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=184&t=0s"
+    },
+    {
+      "titulo": "Logo nova da Globo e Isaac Newton (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=HSb_HOa9E9E&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=145&t=0s"
+    },
+    {
+      "titulo": "Como fazer arco-íris caseiro com vela e DVD (EXPERIÊNCIA de FÍSICA - ÓTICA)",
+      "url": "https://www.youtube.com/watch?v=-e9crnQEA78&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=154&t=0s"
+    },
+    {
+      "titulo": "Como fazer CINEMA NA CAIXA | câmara escura - EXPERIÊNCIA de FÍSICA",
+      "url": "https://www.youtube.com/watch?v=9JBs4T-sd6E&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=196&t=0s"
+    },
+    {
+      "titulo": "Câmara escura com lente (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=yZlt8VgjKdc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=192&t=0s"
+    },
+    {
+      "titulo": "MICROSCÓPIO caseiro com laser (EXPERIÊNCIA de FÍSICA e Biologia) - Homemade microscope",
+      "url": "https://www.youtube.com/watch?v=7HAdiWkltvA&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=206&t=0s"
     }
-
- 
-   
+       
   ]
 },
 {
-  "titulo": "Termodinâmica",
+  "titulo": "Termologia, Termodinâmica",
   "cor": "#880088",
   "link_extra": {
     "text": "",
@@ -521,6 +961,34 @@
     {
       "titulo": "Lei dos Gases Ideais e o Ciclo de Carnot",
       "url": "https://www.youtube.com/watch?v=q75HFKTzWJA"
+    },
+    {
+      "titulo": "O que é Temperatura, Calor e escala Kelvin",
+      "url": "https://www.youtube.com/watch?v=KfMayYX1gIc"
+    },
+    {
+      "titulo": "Por que as latas de ar comprimido ficam TÃO frias? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=U14Cr9z4hN0"
+    },
+    {
+      "titulo": "Por que o tempo não anda pra trás? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=65Chtis3ZyU"
+    },
+    {
+      "titulo": "O que é o fogo? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=pN8qQ0owyg8"
+    },
+    {
+      "titulo": "o FOGO na GRAVIDADE ZERO: o que acontece?",
+      "url": "https://www.youtube.com/watch?v=gBlHuSZzaSg"
+    },
+    {
+      "titulo": "COMO GERAR ENERGIA só com água (GERADOR TERMOELÉTRICO)",
+      "url": "https://www.youtube.com/watch?v=wLrXYMJs-q8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=104&t=0s"
+    },
+    {
+      "titulo": "Faça uma garrafa térmica em casa!",
+      "url": "https://www.youtube.com/watch?v=JqJcKtNS1zM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=106&t=0s"
     }
  
    
@@ -579,6 +1047,14 @@
     {
       "titulo": "O TEOREMA DO TRABALHO-ENERGIA | Episódio 8",
       "url": "https://www.youtube.com/watch?v=h0W5Z4tTqjc"
+    },
+    {
+      "titulo": "As 3 Leis de Newton EXPLICADAS",
+      "url": "https://www.youtube.com/watch?v=B2u8FYE9fWk"
+    },
+    {
+      "titulo": "Nossa ignorância sobre a gravidade | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=GzoI5HbAMOI"
     }
  
    
@@ -603,6 +1079,1819 @@
     }
  
    
+  ]
+},
+{
+  "titulo": "Astrofísica",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "O Mistério dos Quasares",
+      "url": "https://www.youtube.com/watch?v=rfxxd_JYuAE&t=56s"
+    },
+    
+    {
+      "titulo": "Buracos Negros Explicados",
+      "url": "https://www.youtube.com/watch?v=GbJJRsS6OR4"
+    },
+    {
+      "titulo": "O Fim do Universo",
+      "url": "https://www.youtube.com/watch?v=uLh-6mQoQnU"
+    },
+    {
+      "titulo": "Nós Precisamos Voltar Para a Lua",
+      "url": "https://www.youtube.com/watch?v=Qe71LkeCzmU"
+    },
+    {
+      "titulo": "O Enigma da Antimatéria",
+      "url": "https://www.youtube.com/watch?v=LJML4ffF4i0"
+    },
+    {
+      "titulo": "Supernovas Explicadas: As Maiores Explosões do Universo",
+      "url": "https://www.youtube.com/watch?v=BPKAdgv6XUM"
+    },
+    {
+      "titulo": "A MAIOR Tempestade Solar da HISTÓRIA",
+      "url": "https://www.youtube.com/watch?v=k45BaXjRTmc"
+    },
+    {
+      "titulo": "Como Terraformar Marte",
+      "url": "https://www.youtube.com/watch?v=dWh-tm7ntC0"
+    },
+    {
+      "titulo": "O Mistério dos Cometas",
+      "url": "https://www.youtube.com/watch?v=tDEA_zp3R38"
+    },
+    {
+      "titulo": "O Big Bang Explicado",
+      "url": "https://www.youtube.com/watch?v=nNAuuTIf3LE"
+    },
+    {
+      "titulo": "A História do Big Bang",
+      "url": "https://www.youtube.com/watch?v=-5sb11GNwG0"
+    },
+    {
+      "titulo": "O Lugar Mais Frio do Universo",
+      "url": "https://www.youtube.com/watch?v=NzjfzGHBjFo"
+    },
+    {
+      "titulo": "O Grande Eclipse Solar de 2019",
+      "url": "https://www.youtube.com/watch?v=1CyGqbOQYHI"
+    },
+    {
+      "titulo": "Como Sabemos a Forma da Via Láctea?",
+      "url": "https://www.youtube.com/watch?v=ewY_zDr0Zqk"
+    },
+    {
+      "titulo": "Essa é a Primeira Foto de um Buraco Negro",
+      "url": "https://www.youtube.com/watch?v=E3cIU6NbMWE"
+    },
+    {
+      "titulo": "O Nosso Lugar no Universo",
+      "url": "https://www.youtube.com/watch?v=HL1AKRx28Js"
+    },
+    {
+      "titulo": "Como Colonizar a Galáxia",
+      "url": "https://www.youtube.com/watch?v=2qUp8ZTFGik"
+    },
+    {
+      "titulo": "E Se o Sol Fosse um Buraco Negro?",
+      "url": "https://www.youtube.com/watch?v=oa2nr6XhVQ8"
+    },
+    {
+      "titulo": "Você Pode Colocar Fogo em Júpiter?",
+      "url": "https://www.youtube.com/watch?v=kCslZxyHxl4"
+    },
+    {
+      "titulo": "O que Aconteceria se Marte Colidisse com a Terra?",
+      "url": "https://www.youtube.com/watch?v=ZXtn-x2c5r8"
+    },
+    {
+      "titulo": "E se o Pouso na Lua Tivesse Dado Errado?",
+      "url": "https://www.youtube.com/watch?v=W2v8e6xS-LE"
+    },
+    {
+      "titulo": "Você Pode Ser Dono de um Planeta?",
+      "url": "https://www.youtube.com/watch?v=R70CXpIvVvw"
+    },
+    {
+      "titulo": "Descobrimos água líquida em Marte!",
+      "url": "https://www.youtube.com/watch?v=nd0Wio67VIA"
+    },
+    {
+      "titulo": "Está Ficando IMPOSSÍVEL de Ver Estrelas no Céu",
+      "url": "https://www.youtube.com/watch?v=V-GKt5NoSR8"
+    },
+    {
+      "titulo": "O Que Aconteceria Se Você Caísse em Júpiter?",
+      "url": "https://www.youtube.com/watch?v=LKMMwW4Gg5U"
+    },
+    {
+      "titulo": "É Mais Fácil Sair do Sistema Solar do que Ir Até o Sol",
+      "url": "https://www.youtube.com/watch?v=DR-fOwWd8w0"
+    },
+    {
+      "titulo": "Elevador Espacial: Por Que Precisamos Tanto de Um?",
+      "url": "https://www.youtube.com/watch?v=6IixEWv8MtU"
+    },
+    {
+      "titulo": "E Se a Terra Parasse de Girar?",
+      "url": "https://www.youtube.com/watch?v=8C5BwDR8NpI"
+    },
+    {
+      "titulo": "O Universo Expandiu MAIS RÁPIDO do que a Luz?",
+      "url": "https://www.youtube.com/watch?v=9uq-acnyOWI"
+    },
+    {
+      "titulo": "De Poeira Estelar a Supernovas: O Ciclo de Vida das Estrelas",
+      "url": "https://www.youtube.com/watch?v=1wPSGIV84aI"
+    },
+    {
+      "titulo": "Como Sabemos a Idade do Universo? (A Lei de Hubble)",
+      "url": "https://www.youtube.com/watch?v=Qxmfo8BvExI"
+    },
+    {
+      "titulo": "A Radiação Hawking (Como os Buracos Negros Evaporam?)",
+      "url": "https://www.youtube.com/watch?v=CEckD0sO3x8"
+    },
+    {
+      "titulo": "Por Que o Espaço NÃO é Frio?",
+      "url": "https://www.youtube.com/watch?v=YiIG1_q8ug0"
+    },
+    {
+      "titulo": "Quanto Tempo a Luz do Sol REALMENTE Leva Para Chegar na Terra?",
+      "url": "https://www.youtube.com/watch?v=MeAYlgnzSQs"
+    },
+    {
+      "titulo": "Por Que Buracos Negros Pequenos São Mais Perigosos?",
+      "url": "https://www.youtube.com/watch?v=aLFoY3UoCRU"
+    },
+    {
+      "titulo": "Por Que Os Planetas São Redondos?",
+      "url": "https://www.youtube.com/watch?v=J6jkiaDWvFc"
+    },
+    {
+      "titulo": "Por Que Não Existem Estrelas Verdes?",
+      "url": "https://www.youtube.com/watch?v=ualQQ_xsmis"
+    },
+    {
+      "titulo": "Por Que a Terra Está Perdendo a Sua Atmosfera?",
+      "url": "https://www.youtube.com/watch?v=vadKINm4xzQ"
+    },
+    {
+      "titulo": "O Futuro do Sistema Solar",
+      "url": "https://www.youtube.com/watch?v=LAFW9_rOGKs"
+    },
+    {
+      "titulo": "O Quão Próximo Júpiter Está De Ser Uma Estrela?",
+      "url": "https://www.youtube.com/watch?v=xxD1tcpzpU0"
+    },
+    {
+      "titulo": "Missão Europa Confirmada!",
+      "url": "https://www.youtube.com/watch?v=tmAzRlYDfz4"
+    },
+    {
+      "titulo": "É POSSÍVEL APAGAR O SOL COM ÁGUA?",
+      "url": "https://www.youtube.com/watch?v=pI4ZY1jg_Ck&t=36s"
+    },
+    {
+      "titulo": "O que são os Buracos Negros?",
+      "url": "https://www.youtube.com/watch?v=faTmsdxzBqQ"
+    },
+    {
+      "titulo": "POR QUE A LUA FICA VERMELHA?",
+      "url": "https://www.youtube.com/watch?v=R7TGHE1HFjM"
+    },
+    {
+      "titulo": "KEPLER 186F: ENCONTRAMOS OUTRA TERRA?",
+      "url": "https://www.youtube.com/watch?v=ejN2_HIpkSQ"
+    },
+    {
+      "titulo": "E SE VOCÊ FOSSE EXPOSTO AO VÁCUO DO ESPAÇO?",
+      "url": "https://www.youtube.com/watch?v=MEPBJAhkH9Y"
+    },
+    {
+      "titulo": "Qual é o lugar mais frio do Universo?",
+      "url": "https://www.youtube.com/watch?v=oBYMswOKvN4"
+    },
+    {
+      "titulo": "Por que o céu é escuro? (Paradoxo de Olbers)",
+      "url": "https://www.youtube.com/watch?v=Ox2MspbSk1E"
+    },
+    {
+      "titulo": "A Terra está ficando mais leve?",
+      "url": "https://www.youtube.com/watch?v=pHoOROA_Iso"
+    },
+    {
+      "titulo": "Por que os astronautas flutuam?",
+      "url": "https://www.youtube.com/watch?v=iLUP-RR2Vv0"
+    },
+    {
+      "titulo": "Quanto custa para levar um violão a bordo da ISS?",
+      "url": "https://www.youtube.com/watch?v=dUJLQ50iv-s"
+    },
+    {
+      "titulo": "E se você caísse do espaço?",
+      "url": "https://www.youtube.com/watch?v=9-uPQVQhynk"
+    },
+    {
+      "titulo": "E se você caísse em um Buraco Negro?",
+      "url": "https://www.youtube.com/watch?v=mjJbEF5aleE"
+    },
+    {
+      "titulo": "A Terra é Mesmo Redonda? | Primata Falante",
+      "url": "https://www.youtube.com/watch?v=IpzQZn3uVjA"
+    },
+    {
+      "titulo": "Qual o Real Formato da Terra? | Primata Falante",
+      "url": "https://www.youtube.com/watch?v=pkgEOUb65dY"
+    },
+    {
+      "titulo": "Por Que Vemos Sempre o Mesmo Lado da Lua? | Primata Falante",
+      "url": "https://www.youtube.com/watch?v=DwDSiWLQAcM&t=51s"
+    },
+    {
+      "titulo": "As Distâncias Gigantescas da Viagem Espacial | Primata Falante",
+      "url": "https://www.youtube.com/watch?v=Rn0wVlTLpG0"
+    },
+    {
+      "titulo": "Um Tiro pra Cima Pode Acertar a Lua? | Primata Falante",
+      "url": "https://www.youtube.com/watch?v=n3hp5s30X50"
+    },
+    {
+      "titulo": "Por Que Plutão Não é Mais Planeta? | Primata Falante",
+      "url": "https://www.youtube.com/watch?v=-RKxQEmUxTo"
+    },
+    {
+      "titulo": "A Terra Pode Sair de Órbita? O que Havia Antes do Big Bang? | Papo de Físico #01",
+      "url": "https://www.youtube.com/watch?v=TgUeWANZRU8"
+    },
+    {
+      "titulo": "Por que alguns dias NÃO tem 24 horas? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=5WULzHol9Qg"
+    },
+    {
+      "titulo": "Por que o sistema solar é plano? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=tg3x9Xe-Jdk"
+    },
+    {
+      "titulo": "Como sabemos que o Universo está EXPANDINDO? E o que é energia escura? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=INEfkl4iuLw"
+    },
+    {
+      "titulo": "Por que colocamos telescópios no espaço? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=m1j1MH7m7sw"
+    },
+    {
+      "titulo": "Qual é a forma do universo? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=SEWmGyzaBzw"
+    },
+    {
+      "titulo": "Quanto tempo dura um dia no Sol? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=Vgfmi846ciU"
+    },
+    {
+      "titulo": "Como sabemos que buracos negros existem? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=hL0ve35p16g"
+    },
+    {
+      "titulo": "E se a Terra tivesse anéis como Saturno? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=7OmrfC8sYHs"
+    },
+    {
+      "titulo": "Por que a Lua Cheia é MELHOR no inverno? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=6EIdLCSOUms"
+    },
+    {
+      "titulo": "Por que a Lua Cheia é MELHOR no inverno? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=6EIdLCSOUms"
+    },
+    {
+      "titulo": "O que é a matéria escura? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=F2kIBhfWSp4"
+    },
+    {
+      "titulo": "Quão grande é o Sol? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=ASNfysAcRzU"
+    },
+    {
+      "titulo": "O que é o universo? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=xE02YamCmoM"
+    },
+    {
+      "titulo": "Por que o céu é escuro à noite? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=bhn0IvBy1UA"
+    },
+    {
+      "titulo": "Vídeo do YouTube vs O Universo",
+      "url": "https://www.youtube.com/watch?v=Hvf1LbVRFQA"
+    },
+    {
+      "titulo": "qual o CHEIRO do ESPAÇO?",
+      "url": "https://www.youtube.com/watch?v=EHJmrf_3e2Q"
+    },
+    {
+      "titulo": "Como ser um astronauta | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=q_tfHUvxJXs&list=TLPQMTMwODIwMjBzoD64euioDQ&index=1"
+    },
+    {
+      "titulo": "Partiu Marte? | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=xodB9r9_1AA&list=TLPQMTMwODIwMjBzoD64euioDQ&index=2"
+    },
+    {
+      "titulo": "Buraco Negro | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=ThG5RHBR7dA&list=TLPQMTMwODIwMjBzoD64euioDQ&index=6"
+    }
+  ]
+},
+{
+  "titulo": "Paradoxos",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "O Paradoxo do Teletransporte",
+      "url": "https://www.youtube.com/watch?v=2LqqyxmEWnY"
+    },
+    {
+      "titulo": "O Paradoxo de Bootstrap Explicado",
+      "url": "https://www.youtube.com/watch?v=4s28mk9qZXs"
+    },
+    {
+      "titulo": "O Paradoxo dos Gêmeos Explicado",
+      "url": "https://www.youtube.com/watch?v=98OvQpOkOIU"
+    },
+    {
+      "titulo": "Onde Estão Todas as Civilizações Inteligentes? (O Paradoxo de Fermi)",
+      "url": "https://www.youtube.com/watch?v=pwhXynMIXTc"
+    },
+    {
+      "titulo": "O Paradoxo da Barra e do Buraco",
+      "url": "https://www.youtube.com/watch?v=Mi0dCqnCMSs"
+    },
+    {
+      "titulo": "O Paradoxo dos Gêmeos (com Ponto em Comum) | Relatividade #09",
+      "url": "https://www.youtube.com/watch?v=A2lCvOUxL9E"
+    },
+    {
+      "titulo": "O paradoxo do Portal | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=6sK3NzUKfyQ"
+    },
+    {
+      "titulo": "A resposta para o PARADOXO DOS GÊMEOS | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=6tODLPhD_9k"
+    },
+    {
+      "titulo": "Você conhece o Paradoxo de Simpson em estatística? | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=FBsVRJVA0ro"
+    }
+ 
+   
+  ]
+},
+{
+  "titulo": "Unidades de Medida",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "Você é Maior e Menor que Pensa | Primata Falante",
+      "url": "https://www.youtube.com/watch?v=2RQXH8q_ZlQ&t=106s"
+    },
+    {
+      "titulo": "A Régua Mais Precisa do Universo",
+      "url": "https://www.youtube.com/watch?v=z7G4o0z39HE"
+    },
+    {
+      "titulo": "Quanto é 1 Pirula de Duração? | Primata Falante",
+      "url": "https://www.youtube.com/watch?v=B-US5QQ7_YQ"
+    },
+    {
+      "titulo": "QUÃO DISTANTE É UM SEGUNDO?",
+      "url": "https://www.youtube.com/watch?v=M42nzPiseuk"
+    },
+    {
+      "titulo": "O Que é uma Dimensão? Em 3D... e 2D... e 1D",
+      "url": "https://www.youtube.com/watch?v=xo2W9_f2zEA"
+    },
+    {
+      "titulo": "A revolução das medidas | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=MeEGw_O7c8E&list=TLPQMTMwODIwMjBzoD64euioDQ&index=4"
+    },
+    {
+      "titulo": "Como fazer um PLUVIÔMETRO, o medidor de chuvas (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=XdVCuGnVDXc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=152&t=0s"
+    }
+ 
+   
+  ]
+},
+{
+  "titulo": "Física Nuclear",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "A Crise do Lixo Nuclear",
+      "url": "https://www.youtube.com/watch?v=YvwmzdoJPAg"
+    },
+    {
+      "titulo": "Chernobyl: A História Completa",
+      "url": "https://www.youtube.com/watch?v=DiGqjYkRQ6o"
+    },
+    {
+      "titulo": "A Fusão Nuclear Explicada: Energia do Futuro?",
+      "url": "https://www.youtube.com/watch?v=cXarvv2j9WI"
+    },
+    {
+      "titulo": "Você é uma Bomba Nuclear (!)",
+      "url": "https://www.youtube.com/watch?v=iLb1zZNOY3Y"
+    },
+    {
+      "titulo": "Você Está Contaminado Até Hoje Com Explosões Nucleares",
+      "url": "https://www.youtube.com/watch?v=JY3u2iya7C0"
+    },
+    {
+      "titulo": "Bomba atômica e armas nucleares | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=J9SAZ314yNg&list=TLPQMTMwODIwMjBzoD64euioDQ&index=1"
+    }
+   
+  ]
+},
+{
+  "titulo": "Ciência e Ficção",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "A MURALHA DO 'GAME OF THRONES' É CIENTIFICAMENTE POSSÍVEL?",
+      "url": "https://www.youtube.com/watch?v=4N1Q_f-SjZQ"
+    },
+    {
+      "titulo": "Perdido em Marte: Fato ou Ficção?",
+      "url": "https://www.youtube.com/watch?v=wyHkV9JC4cI"
+    },
+    {
+      "titulo": "A Viagem Espacial de Mass Effect É Possível? | Ciência Nerd",
+      "url": "https://www.youtube.com/watch?v=4F5dh8NRWKQ"
+    },
+    {
+      "titulo": "A Viagem Espacial de Mass Effect é Possível? - parte 2 | Ciência Nerd",
+      "url": "https://www.youtube.com/watch?v=yhD_qusmzk4"
+    },
+    {
+      "titulo": "A Física Quântica no Guia do Mochileiro das Galáxias | Ciência Nerd",
+      "url": "https://www.youtube.com/watch?v=-1aWEPwYM-0"
+    },
+    {
+      "titulo": "Interestelar - Ciência ou Nonsense?",
+      "url": "https://www.youtube.com/watch?v=IKYJCaZ4V3Q"
+    },
+    {
+      "titulo": "#FAQPrimata 10 - A Ciência de Star Wars | Ciência Nerd 01",
+      "url": "https://www.youtube.com/watch?v=D3CFQwTLtgI"
+    },
+    {
+      "titulo": "Dr. Stone | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=zk0BmOpYZ2I&t=0s"
+    },
+    {
+      "titulo": "A física de Interestelar | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=hvj_E767qyo&list=TLPQMTMwODIwMjBzoD64euioDQ&index=6"
+    },
+    {
+      "titulo": "E se você levasse um meteoro de Pégaso | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=gwFJZM2fIoc&list=TLPQMTMwODIwMjBzoD64euioDQ&index=2"
+    },
+    {
+      "titulo": "Seria possível socar um meteoro? | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=STUxsHRUT5c&list=TLPQMTMwODIwMjBzoD64euioDQ&index=2"
+    },
+    {
+      "titulo": "Explicando Vingadores Ultimato | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=U2C6T4EyU28&list=TLPQMTMwODIwMjBzoD64euioDQ&index=2"
+    },
+    {
+      "titulo": "Como congelar o inferno | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=rlFvb_UUgKY&list=TLPQMTMwODIwMjBzoD64euioDQ&index=2"
+    },
+    {
+      "titulo": "A armadura de nanorobôs do Homem de Ferro | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=g-PStpg4gG0&list=TLPQMTMwODIwMjBzoD64euioDQ&index=3"
+    },
+    {
+      "titulo": "O aeroporta-aviões da SHIELD | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=GVCKPbTXtDM&list=TLPQMTMwODIwMjBzoD64euioDQ&index=3"
+    },
+    {
+      "titulo": "E se o Super-Homem girasse a Terra ao contrário? | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=zgQ1vCRqs_A&list=TLPQMTMwODIwMjBzoD64euioDQ&index=3"
+    },
+    {
+      "titulo": "Poderes Elétricos | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=O1lZtdd5OAg&list=TLPQMTMwODIwMjBzoD64euioDQ&index=5"
+    },
+    {
+      "titulo": "Batman vs Superman | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=Av11cr0Dz3I&list=TLPQMTMwODIwMjBzoD64euioDQ&index=5"
+    },
+    {
+      "titulo": "Vivemos na Matrix? | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=Y5nVveHi7Cc&list=TLPQMTMwODIwMjBzoD64euioDQ&index=5"
+    },
+    {
+      "titulo": "Dobra espacial e Millennium Falcon | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=pNrl8jvwygc&list=TLPQMTMwODIwMjBzoD64euioDQ&index=5"
+    },
+    {
+      "titulo": "A Força | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=eKNxhebmGzI&list=TLPQMTMwODIwMjBzoD64euioDQ&index=5"
+    },
+    {
+      "titulo": "Os Poderes do Flash | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=Gg4bI13q8ic&list=TLPQMTMwODIwMjBzoD64euioDQ&index=5"
+    }, 
+    {
+      "titulo": "A Ciência de Halo | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=GNIVctROoQI&list=TLPQMTMwODIwMjBzoD64euioDQ&index=6"
+    }, 
+    {
+      "titulo": "Perdido em Marte | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=JZXHZitYSqE&list=TLPQMTMwODIwMjBzoD64euioDQ&index=7"
+    },
+    {
+      "titulo": "Os poderes da Lince Negra | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=EkyRnJgHQhI&list=TLPQMTMwODIwMjBzoD64euioDQ&index=7"
+    },
+    {
+      "titulo": "Homem-Formiga | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=U9z5h4ipdD4&list=TLPQMTMwODIwMjBzoD64euioDQ&index=7"
+    },
+    {
+      "titulo": "O Escudo do Capitão América | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=dYKa5cgRMkg&list=TLPQMTMwODIwMjBzoD64euioDQ&index=7"
+    },
+    {
+      "titulo": "A física de Interestelar | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=hvj_E767qyo&list=TLPQMTMwODIwMjBzoD64euioDQ&index=7"
+    },
+    {
+      "titulo": "Quem tem mais poder? | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=rUuPl5YNpE8&list=TLPQMTMwODIwMjBzoD64euioDQ&index=9"
+    },
+    {
+      "titulo": "A Física nos Vídeo Games | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=fuZU0HLRbWA&list=TLPQMTMwODIwMjBzoD64euioDQ&index=10"
+    },
+    {
+      "titulo": "COMO FAZER UM SABRE DE LUZ | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=Bu0_AwwEBR8&list=TLPQMTMwODIwMjBzoD64euioDQ&index=11"
+    },
+    {
+      "titulo": "SKATE VOADOR | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=2i0GsErWF50&list=TLPQMTMwODIwMjBzoD64euioDQ&index=12"
+    },
+    {
+      "titulo": "MAGNETO'S REAL POWERS | Nerdologia 27",
+      "url": "https://www.youtube.com/watch?v=EExCImj4Ls8&list=TLPQMTMwODIwMjBzoD64euioDQ&index=12"
+    },
+    {
+      "titulo": "QUAL O SOCO MAIS FORTE? | Nerdologia",
+      "url": "https://www.youtube.com/watch?v=iItfqDViLcg&list=PLyRcl7Q37-DUlJKeG5cks_deXdXjUEx1-&index=46&t=0s"
+    }
+    
+   
+  ]
+},
+{
+  "titulo": "Computação",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "Robôs, Inteligências Artificiais Médicas e Captchas",
+      "url": "https://www.youtube.com/watch?v=WKHNEiO48Ns"
+    },
+    {
+      "titulo": "Como será o Apocalipse das Máquinas?",
+      "url": "https://www.youtube.com/watch?v=5geBn9Sq8d0"
+    },
+    {
+      "titulo": "Café com Computação Quântica",
+      "url": "https://www.youtube.com/watch?v=1WAn-20FyjE"
+    },
+    {
+      "titulo": "Qual é a Massa de um Bit?",
+      "url": "https://www.youtube.com/watch?v=LcJjv4gHL_4"
+    },
+    {
+      "titulo": "Como Bitcoins Estão Mudando o Mundo",
+      "url": "https://www.youtube.com/watch?v=7gTGbaw-oAA"
+    },
+    {
+      "titulo": "Por Que Você DEVE se Importar com a Criptografia?",
+      "url": "https://www.youtube.com/watch?v=PsmMzKcaOYc"
+    },
+    {
+      "titulo": "A Internet Mais Rápida do Mundo",
+      "url": "https://www.youtube.com/watch?v=8_4UPAYUDEk"
+    },
+    {
+      "titulo": "Os Efeitos do 5G no Corpo Humano",
+      "url": "https://www.youtube.com/watch?v=znHrQIbmsTA"
+    },
+    {
+      "titulo": "Você Consegue Passar no Teste de Turing?",
+      "url": "https://www.youtube.com/watch?v=zIZ-FmmEWyw&t=6s"
+    },
+    {
+      "titulo": "Computadores Quânticos Explicados",
+      "url": "https://www.youtube.com/watch?v=92eSz2X0AlU&t=1s"
+    },
+    {
+      "titulo": "Por Que Computadores NÃO PODEM Gerar Números Aleatórios?",
+      "url": "https://www.youtube.com/watch?v=LqXnpIn2Uxs"
+    },
+    {
+      "titulo": "Como computadores quânticos quebram a criptografia (Algoritmo de Shor Explicado)",
+      "url": "https://www.youtube.com/watch?v=jA2FxG95iU8"
+    },
+    {
+      "titulo": "Mitos e verdades sobre a Inteligência Artificial | Minuto da Física",
+      "url": "https://www.youtube.com/watch?v=bM6jGQ7kHYU"
+    }
+  ]
+},
+{
+  "titulo": "Física Atômica",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "O Modelo Atômico de Dalton x Thomson",
+      "url": "https://www.youtube.com/watch?v=Ykih1Qp2MZw"
+    },
+    {
+      "titulo": "Os Átomos São Eternos? (O Decaimento de Prótons)",
+      "url": "https://www.youtube.com/watch?v=Apz2y3kZxRY"
+    },
+    
+    {
+      "titulo": "O Maior Átomo do Universo",
+      "url": "https://www.youtube.com/watch?v=QM7ZZgTeu1k"
+    },
+    {
+      "titulo": "Relógios Atômicos e História do Tempo | Primata Falante",
+      "url": "https://www.youtube.com/watch?v=wq3fjMQxr2A"
+    },
+    {
+      "titulo": "Como Sabemos a Idade da Terra? | Primata Falante",
+      "url": "https://www.youtube.com/watch?v=0hneGByrT00&t=66s"
+    },
+    {
+      "titulo": "Como Funciona a Datação por Carbono?",
+      "url": "https://www.youtube.com/watch?v=lvQa9aGDC_I"
+    },
+    {
+      "titulo": "Punhal \"Extraterrestre\" do Faraó e Jornalismo Científico | Primata Falante",
+      "url": "https://www.youtube.com/watch?v=dBr66TxlqAw"
+    }
+
+  ]
+},
+{
+  "titulo": "Experiências",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    }
+
+  ]
+},
+{
+  "titulo": "Evolução",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    }
+  ]
+},
+{
+  "titulo": "Biodiversidade",
+  "cor": "#880088",
+  "link_extra": {
+    "text": "",
+    "url": "/"
+},
+  "videos": [
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    },
+    {
+      "titulo": "",
+      "url": ""
+    }
   ]
 }
   ]

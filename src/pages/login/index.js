@@ -4,6 +4,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../components/PageDefault';
 import FormField from '../../components/FormField';
+import Button from '../../components/Button';
 // import Button from '../../components/Button';
 
 function Login(
@@ -25,9 +26,10 @@ function Login(
         name="nome"
         value={[]}
       />
-      <p as={Link} className="ButtonLink">
-        <a href="/login" id="login">Entrar</a>
-      </p>
+      <Button as={Link} to="/login" className="ButtonSubmit" type="submit">
+        Entrar
+      </Button>
+
       <p>
         Não possui cadastro?
         <a href="/cadastro/user"> Crie uma conta</a>

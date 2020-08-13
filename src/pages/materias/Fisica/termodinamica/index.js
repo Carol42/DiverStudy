@@ -4,7 +4,7 @@ import PaginasEspecificas from '../../../../components/paginasEspecificas';
 
 function Termodinamica() {
   return (
-    <PaginasEspecificas posicao="10" />
+    <PaginasEspecificas posicao="10" endereco="/fisica" materia="Física" />
   );
 }
 

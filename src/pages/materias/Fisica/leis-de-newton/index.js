@@ -4,7 +4,7 @@ import PaginasEspecificas from '../../../../components/paginasEspecificas';
 
 function LeisDeNewton() {
   return (
-    <PaginasEspecificas posicao="12" />
+    <PaginasEspecificas posicao="12" endereco="/fisica" materia="Física" />
   );
 }
 

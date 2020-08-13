@@ -4,7 +4,7 @@ import PaginasEspecificas from '../../../../components/paginasEspecificas';
 
 function Optica() {
   return (
-    <PaginasEspecificas posicao="9" />
+    <PaginasEspecificas posicao="9" endereco="/fisica" materia="Física" />
   );
 }
 

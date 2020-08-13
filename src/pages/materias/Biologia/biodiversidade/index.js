@@ -2,10 +2,10 @@
 import React from 'react';
 import PaginasEspecificas from '../../../../components/paginasEspecificas';
 
-function FisicaRelatividade() {
+function Biodiversidade() {
   return (
-    <PaginasEspecificas posicao="5" endereco="/fisica" materia="Física" />
+    <PaginasEspecificas posicao="23" endereco="/biologia" materia="Biologia" />
   );
 }
 
-export default FisicaRelatividade;
+export default Biodiversidade;

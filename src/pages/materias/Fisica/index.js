@@ -83,6 +83,70 @@ function Fisica() {
           {dadosIniciais.categorias[13].titulo}
 
         </Button>
+        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/astrofisica"
+        >
+          {dadosIniciais.categorias[14].titulo}
+
+        </Button>
+        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/paradoxos"
+        >
+          {dadosIniciais.categorias[15].titulo}
+
+        </Button>
+        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/unidades-medida"
+        >
+          {dadosIniciais.categorias[16].titulo}
+
+        </Button>
+        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/nuclear"
+        >
+          {dadosIniciais.categorias[17].titulo}
+
+        </Button>
+        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/ficcao"
+        >
+          {dadosIniciais.categorias[18].titulo}
+
+        </Button>
+        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/computacao"
+        >
+          {dadosIniciais.categorias[19].titulo}
+
+        </Button>
+        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/atomica"
+        >
+          {dadosIniciais.categorias[20].titulo}
+
+        </Button>
+        <Button
+          as={Link}
+          className="Button"
+          to="/fisica/experiencias"
+        >
+          {dadosIniciais.categorias[21].titulo}
+
+        </Button>
 
       </div>
 

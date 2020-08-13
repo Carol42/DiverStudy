@@ -21,6 +21,17 @@ import Termodinamica from './pages/materias/Fisica/termodinamica';
 import Hidrostatica from './pages/materias/Fisica/hidrostatica';
 import LeisDeNewton from './pages/materias/Fisica/leis-de-newton';
 import Movimento from './pages/materias/Fisica/movimento';
+import Astrofisica from './pages/materias/Fisica/astrofisica';
+import Paradoxos from './pages/materias/Fisica/paradoxos';
+import UnidadesMedida from './pages/materias/Fisica/unidades-medida';
+import Nuclear from './pages/materias/Fisica/nuclear';
+import Ficcao from './pages/materias/Fisica/ficcao';
+import Computacao from './pages/materias/Fisica/computacao';
+import Atomica from './pages/materias/Fisica/atomica';
+import Experiencias from './pages/materias/Fisica/experiencias';
+import Biologia from './pages/materias/Biologia';
+import Evolucao from './pages/materias/Biologia/evolucao';
+import Biodiversidade from './pages/materias/Biologia/biodiversidade';
 
 // Desafio master blaster na descrição
 // Colocar um jogo ou brincadeira nessa página:
@@ -73,6 +84,18 @@ ReactDOM.render(
       <Route path="/fisica/hidrostatica" component={Hidrostatica} />
       <Route path="/fisica/leis-de-newton" component={LeisDeNewton} />
       <Route path="/fisica/movimento" component={Movimento} />
+      <Route path="/fisica/astrofisica" component={Astrofisica} />
+      <Route path="/fisica/paradoxos" component={Paradoxos} />
+      <Route path="/fisica/unidades-medida" component={UnidadesMedida} />
+      <Route path="/fisica/nuclear" component={Nuclear} />
+      <Route path="/fisica/ficcao" component={Ficcao} />
+      <Route path="/fisica/computacao" component={Computacao} />
+      <Route path="/fisica/atomica" component={Atomica} />
+      <Route path="/fisica/experiencias" component={Experiencias} />
+
+      <Route path="/biologia" component={Biologia} exact />
+      <Route path="/biologia/evolucao" component={Evolucao} />
+      <Route path="/biologia/biodiversidade" component={Biodiversidade} />
 
       <Route component={Pagina404} />
 

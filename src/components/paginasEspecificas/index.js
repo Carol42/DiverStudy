@@ -7,39 +7,40 @@ import Menu from '../Menu';
 import dadosIniciais from '../../data/dados_iniciais.json';
 import Footer from '../Footer';
 import GroupVideos from '../groupVideos';
-import Button from '../Button';
+// import Button from '../Button';
 import ScrollToTop from '../ScrollTop';
-import { SubTitle } from './styles';
+import { SubTitle, BotaoVoltar } from './styles';
 
-const PaginasEspecificas = (props) => {
-  return (
-    <div style={{ background: '#141414' }}>
-      <Menu />
-      <div className="videosWrapper">
-        <>
-          <SubTitle style={{ backgroundColor: 'purple' }}>
-            {dadosIniciais.categorias[props.posicao].titulo}
-          </SubTitle>
-        </>
-        <GroupVideos
-          category={dadosIniciais.categorias[props.posicao]}
-        />
-        <div className="buttonWrapper">
-          <Button as={Link} to="/fisica" className="Button">
-            Voltar para Física
-          </Button>
-          <ScrollToTop />
+const PaginasEspecificas = (props) => (
+  <div style={{ background: '#141414' }}>
+    <Menu />
+    <div className="videosWrapper">
+      <>
+        <SubTitle style={{ backgroundColor: 'purple' }}>
+          {dadosIniciais.categorias[props.posicao].titulo}
+        </SubTitle>
+      </>
+      <GroupVideos
+        category={dadosIniciais.categorias[props.posicao]}
+      />
+      <div className="buttonWrapper">
 
-        </div>
+        <BotaoVoltar as={Link} to={props.endereco} className="Button">
+          Voltar para {props.materia}
+        </BotaoVoltar>
+        <ScrollToTop />
+
       </div>
-
-      <Footer />
     </div>
-  );
-};
+
+    <Footer />
+  </div>
+);
 
 PaginasEspecificas.propTypes = {
-  posicao: PropTypes.number,
+  posicao: PropTypes.number.isRequired,
+  materia: PropTypes.string.isRequired,
+  endereco: PropTypes.string.isRequired,
 };
 
 export default PaginasEspecificas;

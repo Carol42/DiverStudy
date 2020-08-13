@@ -6,6 +6,7 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../components/PageDefault';
 import FormField from '../../components/FormField';
 import './index.css';
+import Button from '../../components/Button';
 
 function Contribuir() {
   return (
@@ -29,9 +30,9 @@ function Contribuir() {
         <p>
           É professor e gostaria de adicionar seu próprio conteúdo? Crie a sua conta ou faça login na nossa plataforma para adicionar uma seção só sua!
         </p>
-        <p as={Link} className="ButtonLink">
-          <a href="/cadastro/user" id="login">Login/Cadastro</a>
-        </p>
+        <Button as={Link} to="/cadastro/user" className="ButtonSubmit" type="submit">
+          Cadastre-se
+        </Button>
       </div>
 
     </PageDefault>

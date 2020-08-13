@@ -1,5 +1,5 @@
+/* eslint-disable import/prefer-default-export */
 import styled from 'styled-components';
-
 
 export const FooterBase = styled.footer`
   background: var(--black);
@@ -10,6 +10,7 @@ export const FooterBase = styled.footer`
   padding-bottom: 32px;
   color: var(--white);
   text-align: center;
+  margin-top: 7rem;
   @media (max-width: 800px) {
     margin-bottom: 50px;
   }

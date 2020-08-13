@@ -4,7 +4,7 @@ import PaginasEspecificas from '../../../../components/paginasEspecificas';
 
 function Hidrostatica() {
   return (
-    <PaginasEspecificas posicao="11" />
+    <PaginasEspecificas posicao="11" endereco="/fisica" materia="Física" />
   );
 }
 

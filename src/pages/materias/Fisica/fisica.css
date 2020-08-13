@@ -7,7 +7,8 @@
 
 h1{
     color: violet;
-    font-size: xx-large;
+    font-size: 3rem;
+    grid-column: 1 / span 3;
 }
 
 .Button{
@@ -28,10 +29,35 @@ h1{
     justify-content: center;
     transition: opacity .3s;
     max-width: 70%;
+   
+
 }
 .Button:hover,
 .Button:focus {
   opacity: .5;
+}
+.ButtonTop{
+  color: thistle;
+  background-color: purple;
+  border: 1px solid thistle;
+  box-sizing: border-box;
+  cursor: pointer;
+  padding: 16px 24px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px !important;
+  outline: none;
+  border-radius: 50%;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity .3s;
+
+}
+.ButtonTop:hover,
+.ButtonTop:focus {
+opacity: .5;
 }
 
 .ButtonCadastro{
@@ -67,4 +93,7 @@ h1{
   display: flex;
   justify-content: space-around;
   margin-top: 25px;
+  margin-top: 70px;
+  position: sticky;
+  bottom: 0;
 }

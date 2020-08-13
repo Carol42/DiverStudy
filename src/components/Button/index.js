@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 const Button = styled.button`
   color: thistle;
@@ -21,4 +21,4 @@ const Button = styled.button`
   }
 `;
 
-export default Button
+export default Button;

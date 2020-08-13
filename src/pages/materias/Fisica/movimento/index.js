@@ -4,7 +4,7 @@ import PaginasEspecificas from '../../../../components/paginasEspecificas';
 
 function Movimento() {
   return (
-    <PaginasEspecificas posicao="13" />
+    <PaginasEspecificas posicao="13" endereco="/fisica" materia="Física" />
   );
 }
 
