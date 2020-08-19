@@ -13,9 +13,9 @@ function Menu() {
       <Link to="/">
         <img className="Logo" src={Logo} alt="logo" />
       </Link>
-      <p className="ButtonLink" id="menuItem1">
+      {/* <p className="ButtonLink" id="menuItem1">
         Categorias
-      </p>
+      </p> */}
       <p as={Link} className="ButtonLink" id="menuItem2">
         <a href="/contribuir" id="contribuir">Quero contribuir</a>
       </p>

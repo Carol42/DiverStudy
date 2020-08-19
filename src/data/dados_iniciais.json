@@ -169,7 +169,7 @@
       "titulo": "Matemática",
       "cor": "#880088",
       "link_extra": {
-        "text": "Entre na página de Matemática clicando aqui :)",
+        "text": "",
         "url": "/"
       },
       "videos": [
@@ -221,7 +221,7 @@
       "titulo": "História",
       "cor": "#880088",
       "link_extra": {
-        "text": "Entre na página de História clicando aqui :)",
+        "text": "",
         "url": "/"
       },
       "videos": [
@@ -251,7 +251,7 @@
       "titulo": "Diversos",
       "cor": "#880088",
       "link_extra": {
-        "text": "Entre na página Diversos clicando aqui :)",
+        "text": "",
         "url": "/"
       },
       "videos": [
@@ -779,22 +779,7 @@
     {
       "titulo": "3 gambiarras para melhorar o som do CELULAR",
       "url": "https://www.youtube.com/watch?v=ZH6RdN7PoFk&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=99&t=0s"
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
     }
-
- 
-   
   ]
 },
 {
@@ -1491,6 +1476,10 @@
     {
       "titulo": "Como fazer um PLUVIÔMETRO, o medidor de chuvas (EXPERIÊNCIA)",
       "url": "https://www.youtube.com/watch?v=XdVCuGnVDXc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=152&t=0s"
+    },
+    {
+      "titulo": "Medindo prédios com prato (EXPERIMENTOS de FÍSICA) - How to measure a building with a plate",
+      "url": "https://www.youtube.com/watch?v=eB7NCwY-7Us&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=179&t=0s"
     }
  
    
@@ -1754,6 +1743,14 @@
       "url": "https://www.youtube.com/watch?v=Ykih1Qp2MZw"
     },
     {
+      "titulo": "O Modelo Atômico de Rutherford",
+      "url": "https://www.youtube.com/watch?v=VPljleaaLfc"
+    },
+    {
+      "titulo": "O Átomo de Bohr Explicado",
+      "url": "https://www.youtube.com/watch?v=_GPrqg-NzCg"
+    },
+    {
       "titulo": "Os Átomos São Eternos? (O Decaimento de Prótons)",
       "url": "https://www.youtube.com/watch?v=Apz2y3kZxRY"
     },
@@ -1790,974 +1787,894 @@
 },
   "videos": [
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Faça em casa a INCRÍVEL ampulheta INVERTIDA",
+      "url": "https://www.youtube.com/watch?v=r-BiNQg1Ma4&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=2&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Conheça o segredo da LENTE da INVISIBILIDADE",
+      "url": "https://www.youtube.com/watch?v=9c7zToX3I5s&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=3&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "RODA QUE NÃO CAI! Como é possível? EXPERIÊNCIA de FÍSICA",
+      "url": "https://www.youtube.com/watch?v=j9K1JTOa9yg&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=4&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Faça o seu OBJETO IMPOSSÍVEL ft. Rato Borrachudo (Impossible Table)",
+      "url": "https://www.youtube.com/watch?v=BEQOfufLfNM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=5&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Construímos um MINITORNADO de FOGO",
+      "url": "https://www.youtube.com/watch?v=l2WM6x0QPgQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=6&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Você está PERDENDO AUDIÇÃO e eu VOU PROVAR!",
+      "url": "https://www.youtube.com/watch?v=uoxtAXN2tnI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=7&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "IMPLOSÃO MAGNÉTICA em CÂMERA LENTA: Experiência com ímã",
+      "url": "https://www.youtube.com/watch?v=xyvwr3nLVj8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=8&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Fizemos um caleidoscópio gigante!!!",
+      "url": "https://www.youtube.com/watch?v=P0dFThLGdxo&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=9&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer uma caixa que anda sozinha",
+      "url": "https://www.youtube.com/watch?v=piUvU1b8mes&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=10&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Turbinar Wi-Fi com LATA DE ALUMÍNIO realmente funciona? Nós testamos!",
+      "url": "https://www.youtube.com/watch?v=TGg3U_KO5Y0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=11&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "How to make the Leonardo Da Vinci's Self supporting bridge",
+      "url": "https://www.youtube.com/watch?v=A5bj-tZD8-A&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=12&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer uma TURBINA EÓLICA caseira",
+      "url": "https://www.youtube.com/watch?v=B69rVmtIg34&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=13&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Você não sabe olhar no ESPELHO! COMO USAR espelho",
+      "url": "https://www.youtube.com/watch?v=JqHwZxZ-gW4&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=14&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "O BALÃO que desobedece a FÍSICA",
+      "url": "https://www.youtube.com/watch?v=sTjoUp7UVrA&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=15&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Prendemos a luz numa caixa de espelhos. Olha o resultado!",
+      "url": "https://www.youtube.com/watch?v=60e8i8qLfmA&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=16&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Fizemos um alto-falante de fogo!!! (TUBO DE RUBENS)",
+      "url": "https://www.youtube.com/watch?v=iuaTCKkYtRM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=17&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Faça em casa um PAC-MAN hidráulico!",
+      "url": "https://www.youtube.com/watch?v=KQyPh8bLy9s&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=18&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "IMPLODIMOS um tambor de aço! (EXPERIÊNCIA DE FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=0SVFB9m7sTY&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=19&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Faça um ASPIRADOR COM GARRAFA PET (sim, funciona bem!)",
+      "url": "https://www.youtube.com/watch?v=G5ri-C0bIZs&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=20&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Truque das escovas apaixonadas (EXPERIÊNCIA FÁCIL DE FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=ykwzhtK8THY&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=21&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Fizemos o MOTOR ESTRELA ELETROMAGNÉTICO!",
+      "url": "https://www.youtube.com/watch?v=hbKmflCpl6E&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=22&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Faça nuvens com o formato que você quiser (EXPERIÊNCIA DE FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=n_jo9UqgsN8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=23&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Qual é o seu OLHO DOMINANTE? Faça o TESTE AGORA!",
+      "url": "https://www.youtube.com/watch?v=k9AC7yrNWrg&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=24&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer BOLHAS FLUTUAREM com ELETRICIDADE",
+      "url": "https://www.youtube.com/watch?v=zH8EiGKt_BE&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=25&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Monstro que come moedas (EXPERIÊNCIA DE FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=xfCb8MRvVu0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=26&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Cadeira com pernas humanas",
+      "url": "https://www.youtube.com/watch?v=if-UBDxoRoc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=32&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "COMO MEDIR DISTÂNCIA da Terra até as estrelas",
+      "url": "https://www.youtube.com/watch?v=gFCfDmZcUH4&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=27&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Faça uma MINI BOBINA DE TESLA caseira",
+      "url": "https://www.youtube.com/watch?v=w2bZGKNwB4Y&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=28&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "MÁQUINA CASEIRA de agarrar BICHINHOS DE PELÚCIA",
+      "url": "https://www.youtube.com/watch?v=A5HbJohwgv8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=29&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer FUTEBOL MAGNÉTICO ft. ZELUNE 🔵Manual do Mundo",
+      "url": "https://www.youtube.com/watch?v=8ZFK0XL2LA8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=30&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer uma GELADEIRA CASEIRA que chega a 5,6°C (GELADEIRA PELTIER)",
+      "url": "https://www.youtube.com/watch?v=O7NuMwVCdt0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=31&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "ILUSÃO da cabeça cortada - aprenda a fazer! 🔵Manual do Mundo",
+      "url": "https://www.youtube.com/watch?v=KsgeeQKQviA&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=33&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Fizemos o MOTOR V8 ELETROMAGNÉTICO!!!",
+      "url": "https://www.youtube.com/watch?v=SwvucPdO6ik&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=34&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "DESAFIO: Qual enche primeiro?",
+      "url": "https://www.youtube.com/watch?v=VvIex9h-p6c&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=35&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "MOTOR que toca música dentro da boca ft. ÁTILA IAMARINO, NERDOLOGIA 🔵Manual do Mundo",
+      "url": "https://www.youtube.com/watch?v=SsVauRbN7mM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=36&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "LUMINÁRIA AUTOMÁTICA de Halloween (EXPERIÊNCIA DE FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=rrpnsYfxyTI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=37&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Bexiga cheia d'água vs PREGOS? Surpreendente!",
+      "url": "https://www.youtube.com/watch?v=sYwOrqruoKk&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=38&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer MÁQUINA DE CHOQUES com forma de pizza",
+      "url": "https://www.youtube.com/watch?v=vklSPA4ay_4&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=39&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer um ROBÔ que DIRIGE SOZINHO",
+      "url": "https://www.youtube.com/watch?v=5KwH-bQYOEc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=40&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Faça um alto-falante com prato descartável",
+      "url": "https://www.youtube.com/watch?v=k3GarjlFw7c&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=41&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer uma LANTERNA À MANIVELA",
+      "url": "https://www.youtube.com/watch?v=UX-8AHQIbNk&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=42&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "MOTOR DE PISTÃO ELETROMAGNÉTICO",
+      "url": "https://www.youtube.com/watch?v=3xJrPQs0jE0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=43&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Você nunca mais vai ver um ÍMÃ do mesmo jeito!",
+      "url": "https://www.youtube.com/watch?v=9z5yaUKlsTM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=44&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Reação em cadeia: colar que foge do pote ft. Delta T 🔵Manual do Mundo",
+      "url": "https://www.youtube.com/watch?v=5MaXQzkYdC0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=45&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Faça o SPINNER que cria animações! (MUITO legal!)",
+      "url": "https://www.youtube.com/watch?v=Ho48XJ1HPzQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=46&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "É REAL: ÁGUA EXPLODE NO MICRO-ONDAS! Nós testamos",
+      "url": "https://www.youtube.com/watch?v=I5JbaPdPbno&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=47&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "HAND SPINNER MAGNÉTICO 4.0",
+      "url": "https://www.youtube.com/watch?v=Dp72SwBDc0U&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=48&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "How to make a Drawdio, the musical pencil",
+      "url": "https://www.youtube.com/watch?v=NgTfjDKiCf0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=49&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como espantar o CALOR com CAIXAS DE LEITE",
+      "url": "https://www.youtube.com/watch?v=aEpMk7zuvVQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=50&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Azul + Verde + Vermelho = Branco?",
+      "url": "https://www.youtube.com/watch?v=LlKeTEzYrjo&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=51&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Beba um arco-íris - EXPERIMENTOS de FÍSICA",
+      "url": "https://www.youtube.com/watch?v=4bIaerF-TRg&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=52&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Achei 5 SUPERÍMÃS dentro do CELULAR!",
+      "url": "https://www.youtube.com/watch?v=iJpDcgUH3mI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=53&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "9 Jeitos burros de ver um eclipse",
+      "url": "https://www.youtube.com/watch?v=GBymay8VySM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=54&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Homemade magnetic train (Physics experiment)",
+      "url": "https://www.youtube.com/watch?v=eTjrWF8sOHw&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=55&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer uma CATAPULTA ELETROMAGNÉTICA",
+      "url": "https://www.youtube.com/watch?v=JRg4dc71Scs&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=56&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "What is cooler? Fan blowing in or out?",
+      "url": "https://www.youtube.com/watch?v=xxuzB8r0JQ4&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=57&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "How to cut wood using a paper saw",
+      "url": "https://www.youtube.com/watch?v=ruGpsQQWPr8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=58&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Inversor de orelhas ft. LUAN SANTANA 🔵Manual do Mundo",
+      "url": "https://www.youtube.com/watch?v=MwZIAfxtyns&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=59&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "A máquina mirabolante de RUBE GOLDBERG MACHINE",
+      "url": "https://www.youtube.com/watch?v=mRHu87Le6mQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=60&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Faça seu PIANO DE GARRAFAS e toque até Beethoven!",
+      "url": "https://www.youtube.com/watch?v=0l5juORZhmE&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=61&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Macarrão vitaminado radioativo: faça o seu! (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=QQlh3d-Y4gY&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=62&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "MOIRÉ: desenhos loucos que surgem do nada",
+      "url": "https://www.youtube.com/watch?v=5V3vgb5Ynus&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=63&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Girocopo: copos voadores que param no ar ft. MEDERI 🔵Manual do Mundo",
+      "url": "https://www.youtube.com/watch?v=qTVStGyWl7M&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=64&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Kleber Bambam X Pressão atmosférica - Quem ganha?",
+      "url": "https://www.youtube.com/watch?v=f0SN1MD-7m0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=65&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Montanha-russa dentro de casa: construa a sua!",
+      "url": "https://www.youtube.com/watch?v=cAso7wLJXT8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=66&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer slow motion com os próprios olhos (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=cu9hkXNqhtU&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=67&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer uma mesa de 30 pernas (MESA ICOSAEDRO)",
+      "url": "https://www.youtube.com/watch?v=mE1ycbmtnuQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=68&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "O espelho criador de fantasmas (EXPERIÊNCIA de ÓTICA)",
+      "url": "https://www.youtube.com/watch?v=Y3fMCbXO8gQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=69&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Pulgas dançantes fritas - EXPERIÊNCIA FÁCIL de FÍSICA",
+      "url": "https://www.youtube.com/watch?v=Kuwrvl3Exag&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=70&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Ferrofluido + glowsticks = gosma psicodélica",
+      "url": "https://www.youtube.com/watch?v=C0bUqYKKc_E&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=71&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como transmitir eletricidade sem fios (energia wireless)",
+      "url": "https://www.youtube.com/watch?v=sMfAotrPEkI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=72&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como ouvir com os olhos (EXPERIÊNCIA do PRATO DE CHLADNI)",
+      "url": "https://www.youtube.com/watch?v=xjQH9Zx-jsY&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=73&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer uma LUNETA caseira de PVC",
+      "url": "https://www.youtube.com/watch?v=quP7pOORCv0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=74&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Jogo das bolhas enjauladas",
+      "url": "https://www.youtube.com/watch?v=Xa_SCot7lY4&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=75&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Turbine seu SUBMARINO com um PERISCÓPIO CASEIRO",
+      "url": "https://www.youtube.com/watch?v=c_RwuNIdhqE&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=76&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como escrever no aço usando eletricidade",
+      "url": "https://www.youtube.com/watch?v=zT7EHQm4WpE&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=77&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Disco que TOCA NO CRÂNIO ft. Felipe Castanhari 🔵Manual do Mundo",
+      "url": "https://www.youtube.com/watch?v=PH5bjNpnABU&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=78&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Corda de papel higiênico",
+      "url": "https://www.youtube.com/watch?v=pcQlbS-bRes&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=79&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Construa um MOTOR MOVIDO A VELA (MOTOR STIRLING)",
+      "url": "https://www.youtube.com/watch?v=egNrHP6pMUo&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=80&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Faça uma CATAPULTA TURBINADA usando palito japonês",
+      "url": "https://www.youtube.com/watch?v=y_wFkAuNoVY&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=81&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como desenhar com desfoque da câmera",
+      "url": "https://www.youtube.com/watch?v=-QCUJv1J37M&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=82&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como tirar NOTAS MUSICAIS na PANELA DE PRESSÃO",
+      "url": "https://www.youtube.com/watch?v=7ykYrcT_ZBc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=83&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Carrinho com MOTOR de ratoeira",
+      "url": "https://www.youtube.com/watch?v=DWPRipw3SyM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=84&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "ILUSÃO da vela fantasma",
+      "url": "https://www.youtube.com/watch?v=_pgn5KOVhDs&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=85&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer o PÊNDULO desenhista INCRÍVEL",
+      "url": "https://www.youtube.com/watch?v=E_cHdRb5XZQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=86&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Microfone de caixinha de fósforo",
+      "url": "https://www.youtube.com/watch?v=wU2JuRphDRg&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=87&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como entortar raios de luz com açúcar",
+      "url": "https://www.youtube.com/watch?v=gqkSfAfyt30&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=88&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Construa uma ESCAVADEIRA de controle à distância",
+      "url": "https://www.youtube.com/watch?v=e83drbSOoi4&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=89&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer a LUMINÁRIA DAS ESTRELAS aprisionadas do Pequeno Príncipe",
+      "url": "https://www.youtube.com/watch?v=Cr62uIvul7Q&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=90&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Descubra como Silver Tape pode gerar luz",
+      "url": "https://www.youtube.com/watch?v=uWMVA7I7Tzk&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=91&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "COMO FAZER UMA LENTE DE AUMENTO em casa",
+      "url": "https://www.youtube.com/watch?v=iGgO82eBsAI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=92&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Canhão de ar gigante (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=dyWOirHNpUE&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=93&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "LED, fluorescente ou halógena? (TESTE DE LÂMPADAS)",
+      "url": "https://www.youtube.com/watch?v=qtsYcq-u3J0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=94&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer a incrível MÃO BIÔNICA de papelão caseira",
+      "url": "https://www.youtube.com/watch?v=ADjNclZNSGc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=95&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Faça um holograma para CELULAR (muito FÁCIL!)",
+      "url": "https://www.youtube.com/watch?v=ejiDPkVXbqs&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=96&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "O SEGREDO do efeito MONGA (explicação do holograma caseiro)",
+      "url": "https://www.youtube.com/watch?v=xrAWgmfhOaM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=97&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Água que viaja no cano invisível",
+      "url": "https://www.youtube.com/watch?v=Tl4bxfHTSNk&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=98&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "3 gambiarras para melhorar o som do CELULAR",
+      "url": "https://www.youtube.com/watch?v=ZH6RdN7PoFk&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=99&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer um CANHÃO MAGNÉTICO CASEIRO (CANHÃO DE GAUSS)",
+      "url": "https://www.youtube.com/watch?v=vMErygmHlns&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=100&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Experience and challenge of the impossible object",
+      "url": "https://www.youtube.com/watch?v=OVRvoGirqTo&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=101&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer uma MÁQUINA DE CHOQUES caseira para FEIRA DE CIÊNCIAS",
+      "url": "https://www.youtube.com/watch?v=Lxe4FAI-g6s&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=102&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer uma AMPULHETA LÍQUIDA (EXPERIÊNCIA sobre DENSIDADE)",
+      "url": "https://www.youtube.com/watch?v=P2lupugI-Fs&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=103&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "COMO GERAR ENERGIA só com água (GERADOR TERMOELÉTRICO)",
+      "url": "https://www.youtube.com/watch?v=wLrXYMJs-q8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=104&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Aprenda a fazer um cone antigravidade",
+      "url": "https://www.youtube.com/watch?v=QVLt-x3qjKM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=105&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Faça uma garrafa térmica em casa!",
+      "url": "https://www.youtube.com/watch?v=JqJcKtNS1zM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=106&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Peneira à prova d'água (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=xyPeTPVR1Yc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=107&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Aprenda como fazer uma lata adestrada",
+      "url": "https://www.youtube.com/watch?v=2_E5f-QxskM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=108&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "LENTE OLHO DE PEIXE caseira para CELULAR",
+      "url": "https://www.youtube.com/watch?v=Srk2ToJR58o&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=109&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "COMO TIRAR FERRUGEM com carambola",
+      "url": "https://www.youtube.com/watch?v=3Ot-aPNo3uk&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=110&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer uma cadeira de pregos",
+      "url": "https://www.youtube.com/watch?v=aZN3Hk5qnHU&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=111&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "RELÓGIO DE SOL com garrafa PET",
+      "url": "https://www.youtube.com/watch?v=onDE_ZAdkkE&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=112&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer um TORNADO LUMINOSO - EXPERIÊNCIA de QUÍMICA e FÍSICA",
+      "url": "https://www.youtube.com/watch?v=XQQShzZXn_M&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=113&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Aprenda como dar nó em pingo d'água",
+      "url": "https://www.youtube.com/watch?v=i3SKpKbkHXE&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=114&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como enxergar sua própria voz (EXPERIMENTOS de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=6lArL9pCkhs&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=115&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
-    },
-    {
-      "titulo": "",
-      "url": ""
+      "titulo": "EXPERIÊNCIA do espelho mágico para copiar desenhos",
+      "url": "https://www.youtube.com/watch?v=6x2j2fh-fVY&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=116&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Faça com seus amigos o EXPERIMENTO da caneca assustada (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=lweaQwd04YQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=117&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Labirinto que espanta água (EXPERIÊNCIA do labirinto hidrofóbico)",
+      "url": "https://www.youtube.com/watch?v=wpxelvc442E&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=118&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Aprenda a fazer um MOTOR de vela",
+      "url": "https://www.youtube.com/watch?v=tIDYymgpIQQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=119&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer uma barata robótica com controle de PS2",
+      "url": "https://www.youtube.com/watch?v=_lsV4Pm-ZcI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=120&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer um GERADOR DE ENERGIA com ÍMÃ em casa",
+      "url": "https://www.youtube.com/watch?v=EzEw_Mg0rcU&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=121&t=0s"
     },
     
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "EXPERIÊNCIA das rolhas adestradas: balança mas não cai",
+      "url": "https://www.youtube.com/watch?v=3CsduW-U02U&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=122&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "ILUSÃO ANAMÓRFICA: o desenho que se reconstrói",
+      "url": "https://www.youtube.com/watch?v=LyClKiv2phw&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=123&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Como fazer um pulmão artificial caseiro",
+      "url": "https://www.youtube.com/watch?v=DNbF6bnCoio&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=124&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "Torre de pisa: o apoio de garrafas equilibristas",
+      "url": "https://www.youtube.com/watch?v=G8Tvas0-mCQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=125&t=0s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "COMO ORGANIZAR FIOS E CABOS usando garrafa PET",
+      "url": "https://www.youtube.com/watch?v=wQ-m0xYUVv8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=126&t=0s"
+    },
+    {
+      "titulo": "Como fazer o PLANADOR infinito passo a passo em casa",
+      "url": "https://www.youtube.com/watch?v=eO4PpdXVuw0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=127&t=0s"
+    },
+    
+    {
+      "titulo": "Como fazer o canhão de luz do Batman - EXPERIMENTOS de FÍSICA",
+      "url": "https://www.youtube.com/watch?v=3Yrg6Are9YQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=128&t=0s"
+    },
+    {
+      "titulo": "Faça um MICROSCÓPIO caseiro com CELULAR (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=HwHJhti5fLs&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=129&t=0s"
+    },
+    {
+      "titulo": "Como fazer um aerobarco, o barco-ventilador caseiro",
+      "url": "https://www.youtube.com/watch?v=vMRnd5ROdY0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=130&t=0s"
+    },
+    {
+      "titulo": "MINIGERADOR EÓLICO - transforme vento em energia elétrica!",
+      "url": "https://www.youtube.com/watch?v=VKFpp1oljps&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=131&t=0s"
+    },
+    {
+      "titulo": "Como fazer um MOTOR elétrico com um ÍMÃ (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=3nbDBCg6thM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=132&t=0s"
+    },
+    
+    {
+      "titulo": "Como fazer forno solar com caixa de pizza",
+      "url": "https://www.youtube.com/watch?v=Lp6ANp5ZO_s&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=133&t=0s"
+    },
+    {
+      "titulo": "Miniglobo da morte: a porca que grita!",
+      "url": "https://www.youtube.com/watch?v=y3GW3J_wdXY&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=134&t=0s"
+    },
+    {
+      "titulo": "O ultraveloz pião tornado (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=6N1BZbhEdNg&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=135&t=0s"
+    },
+    {
+      "titulo": "Como fazer fogo com água (EXPERIMENTOS de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=BprWYzk-AMI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=139&t=0s"
+    },
+    {
+      "titulo": "EXPERIÊNCIA: Água que foge de ÍMÃS",
+      "url": "https://www.youtube.com/watch?v=cgwCfWONtEU&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=138&t=0s"
+    },
+    {
+      "titulo": "DE ONDE VEM O VENTO? Aprenda com uma EXPERIÊNCIA!",
+      "url": "https://www.youtube.com/watch?v=JuxZTgWEKfs&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=137&t=0s"
+    },
+    
+    {
+      "titulo": "Como fazer um AUTÔMATO, o avô dos robôs (brinquedo + EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=tuqQgTb3cmU&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=136&t=0s"
+    },
+    {
+      "titulo": "Fantástico: a água encantada que troca palavras (EXPERIMENTOS de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=wGgf9Qxr5oo&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=140&t=0s"
+    },
+    {
+      "titulo": "O surpreendente copo satélite (EXPERIMENTOS de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=k0X08cAj0fI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=141&t=0s"
+    },
+    {
+      "titulo": "Como escrever com elétrons (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=2BpV2Lj898M&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=142&t=0s"
+    },
+    {
+      "titulo": "ÍMÃS INTELIGENTES (EXPERIMENTOS de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=gAP9WZEIdeQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=143&t=0s"
+    },
+    
+    {
+      "titulo": "Veja o poder escondido das latinhas equilibristas (EXPERIÊNCIA + DESAFIO)",
+      "url": "https://www.youtube.com/watch?v=SXsr89y6duU&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=144&t=0s"
+    },
+    {
+      "titulo": "Logo nova da Globo e Isaac Newton (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=HSb_HOa9E9E&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=145&t=0s"
+    },
+    {
+      "titulo": "Radical! Voe com o paraquedas caseiro gigante (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=Y-CI65A1hvg&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=146&t=0s"
+    },
+    {
+      "titulo": "Fogão solar parabólico (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=KIJ24jn2uk8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=147&t=0s"
+    },
+    {
+      "titulo": "Faça em casa o deslumbrante abajur que gira sozinho (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=AEd6USvIPNc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=148&t=0s"
+    },
+    {
+      "titulo": "Gelatina fluorescente comestível (EXPERIÊNCIA de FÍSICA e receita)",
+      "url": "https://www.youtube.com/watch?v=9W7zPf7JQHQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=149&t=0s"
+    },
+    
+    {
+      "titulo": "A terrível gaiola de CELULAR (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=CKk0yDRrpDA&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=150&t=0s"
+    },
+    {
+      "titulo": "Como fazer a MISTERIOSA AREIA que tem medo de água - Faça em casa!",
+      "url": "https://www.youtube.com/watch?v=WcoyNBI-ipI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=151&t=0s"
+    },
+    {
+      "titulo": "Como fazer um PLUVIÔMETRO, o medidor de chuvas (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=XdVCuGnVDXc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=152&t=0s"
+    },
+    {
+      "titulo": "Como acender lâmpada sem usar fios (EXPERIÊNCIA de FÍSICA - Elétrica)",
+      "url": "https://www.youtube.com/watch?v=fQmDmmYA6Nc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=153&t=0s"
+    },
+    {
+      "titulo": "Como fazer arco-íris caseiro com vela e DVD (EXPERIÊNCIA de FÍSICA - ÓTICA)",
+      "url": "https://www.youtube.com/watch?v=-e9crnQEA78&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=154&t=0s"
+    },
+    
+    {
+      "titulo": "Como fazer uma ponte de moedas (DESAFIO + EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=ZceEhmYsKtI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=155&t=0s"
+    },
+    {
+      "titulo": "Como fazer bolas flutuantes (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=lKMKPKbrDXU&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=156&t=0s"
+    },
+    {
+      "titulo": "Como fazer uma LÂMPADA CASEIRA (EXPERIÊNCIA de elétrica)",
+      "url": "https://www.youtube.com/watch?v=n4qbPLCiZCc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=157&t=0s"
+    },
+    {
+      "titulo": "Como fazer a mancha que desmancha (EXPERIÊNCIA de FÍSICA com corantes)",
+      "url": "https://www.youtube.com/watch?v=WPAoSnPYZVU&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=158&t=0s"
+    },
+    {
+      "titulo": "Como fazer plástico de batata (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=LyqyYehL82Y&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=159&t=0s"
+    },
+    {
+      "titulo": "Cabo de guerra elétrico - EXPERIÊNCIA de FÍSICA",
+      "url": "https://www.youtube.com/watch?v=Yndkm5VB4I0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=160&t=0s"
+    },
+    
+    {
+      "titulo": "Telepatia do palito (EXPERIÊNCIA de eletrostática)",
+      "url": "https://www.youtube.com/watch?v=x6ddQDBrbV8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=161&t=0s"
+    },
+    {
+      "titulo": "Tornado de GELO SECO (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=ucPPDvtryho&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=162&t=0s"
+    },
+    {
+      "titulo": "Como fazer um ROBÔ GUINDASTE hidráulico passo a passo",
+      "url": "https://www.youtube.com/watch?v=sft0OzAC8gw&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=163&t=0s"
+    },
+    {
+      "titulo": "Como fazer lâmpada de lava com sal (EXPERIÊNCIA de FÍSICA sobre densidade)",
+      "url": "https://www.youtube.com/watch?v=AbwjuQoNWps&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=164&t=0s"
+    },
+    {
+      "titulo": "Como fazer metais gritarem com GELO SECO (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=WOBwshL_E8E&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=165&t=0s"
+    },
+    
+    {
+      "titulo": "Moedas equilibristas (EXPERIÊNCIA com ÍMÃ)",
+      "url": "https://www.youtube.com/watch?v=2C9cpfpa7ew&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=166&t=0s"
+    },
+    {
+      "titulo": "Como fazer um espelho infinito (EXPERIÊNCIA de ÓTICA)",
+      "url": "https://www.youtube.com/watch?v=SbkMKMNRoD0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=167&t=0s"
+    },
+    {
+      "titulo": "Como CORTAR GARRAFAS DE VIDRO usando um barbante",
+      "url": "https://www.youtube.com/watch?v=JxPHQwj3LFg&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=168&t=0s"
+    },
+    {
+      "titulo": "Fonte MÁGICA (como fazer FONTE DE HERON - EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=n7fM9gnOrlk&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=169&t=0s"
+    },
+    {
+      "titulo": "Bolhas de CD (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=-BGFTL6_w04&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=170&t=0s"
+    },
+    {
+      "titulo": "Ampliador de desenhos (PANTÓGRAFO)",
+      "url": "https://www.youtube.com/watch?v=Ji7YorM_t_0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=171&t=0s"
+    },
+    
+    {
+      "titulo": "Nitrogênio líquido de pobre (líquido supergelado caseiro - EXPERIMENTOS de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=FIK45m3CPdw&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=172&t=0s"
+    },
+    {
+      "titulo": "Como fazer um PROJETOR DE CELULAR caseiro passo a passo",
+      "url": "https://www.youtube.com/watch?v=eVhLQBPZqUI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=173&t=0s"
+    },
+    {
+      "titulo": "Detector de elétrons caseiro (ELETROSCÓPIO - EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=qAsesJkyZ4Q&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=174&t=208s"
+    },
+    {
+      "titulo": "Como não explodir uma lata de refri (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=z9P0VWKesus&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=175&t=0s"
+    },
+    {
+      "titulo": "Mixer automático caseiro (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=w3LMJKBM2TY&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=176&t=0s"
+    },
+    
+    {
+      "titulo": "O gelo que se regenera (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=rDEHFqL93dc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=177&t=0s"
+    },
+    {
+      "titulo": "ÍMÃ no monitor CRT (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=nZk--_Rh738&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=178&t=0s"
+    },
+    {
+      "titulo": "Medindo prédios com prato (EXPERIMENTOS de FÍSICA) - How to measure a building with a plate",
+      "url": "https://www.youtube.com/watch?v=eB7NCwY-7Us&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=179&t=0s"
+    },
+    {
+      "titulo": "O tubo antigravidade (EXPERIÊNCIA de FÍSICA - magnetismo)",
+      "url": "https://www.youtube.com/watch?v=_p1oV6sVpo4&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=180&t=0s"
+    },
+    {
+      "titulo": "Furacão com HD (AGITADOR MAGNÉTICO CASEIRO) (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=UzbJiJ-nW0I&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=182&t=0s"
+    },
+    {
+      "titulo": "Livros que grudam sem cola (EXPERIÊNCIA de FÍSICA - atrito)",
+      "url": "https://www.youtube.com/watch?v=bCTL0PQPOj0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=181&t=0s"
+    },
+    
+    {
+      "titulo": "O MOTOR mais simples do mundo (MOTOR HOMOPOLAR) (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=pLbY5ykcGb0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=183&t=0s"
+    },
+    {
+      "titulo": "A luz que faz curva na água (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=F69tWoZa4ic&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=184&t=0s"
+    },
+    {
+      "titulo": "Como fazer BOLA DE PLASMA em casa (GLOBO DE PLASMA CASEIRO - EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=y2Y0wALidTY&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=185&t=0s"
+    },
+    {
+      "titulo": "Nuvem na garrafa (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=kCHOe5cEaAw&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=186&t=0s"
+    },
+    {
+      "titulo": "Pêndulo fantasma elétrico (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=LyUJVJYxOEs&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=187&t=0s"
+    },
+    
+    {
+      "titulo": "TINTA INVISÍVEL PARA LUZ NEGRA (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=qOaoNPehtn8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=188&t=0s"
+    },
+    {
+      "titulo": "Balança de garrafas PET (balança caseira - EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=Ox7ZEYivjSU&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=189&t=0s"
+    },
+    {
+      "titulo": "Aprenda como fazer óculos 3D em casa",
+      "url": "https://www.youtube.com/watch?v=-HeLOAymbQ0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=190&t=0s"
+    },
+    {
+      "titulo": "Tornado de fogo (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=dJFhZLjBsCU&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=191&t=0s"
+    },
+    {
+      "titulo": "Câmara escura com lente (EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=yZlt8VgjKdc&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=192&t=0s"
+    },
+    {
+      "titulo": "Cachoeira de fumaça (EXPERIÊNCIA de FÍSICA) - Smoke waterfall",
+      "url": "https://www.youtube.com/watch?v=7HzV0HJcdmI&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=193&t=0s"
+    },
+    
+    {
+      "titulo": "Faça uma BÚSSOLA CASEIRA com uma agulha",
+      "url": "https://www.youtube.com/watch?v=1ItwpRKaKg0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=194&t=0s"
+    },
+    {
+      "titulo": "Como fazer um ÍMÃ elétrico, o ELETROÍMÃ (EXPERIÊNCIA de FÍSICA - eletromagnetismo)",
+      "url": "https://www.youtube.com/watch?v=j2kHpzP7elQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=195&t=147s"
+    },
+    {
+      "titulo": "Como fazer CINEMA NA CAIXA | câmara escura - EXPERIÊNCIA de FÍSICA",
+      "url": "https://www.youtube.com/watch?v=9JBs4T-sd6E&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=196&t=0s"
+    },
+    {
+      "titulo": "COMO FAZER UM GERADOR (de verdade) com um DVD player (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=TyANOy7d-kQ&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=197&t=0s"
+    },
+    {
+      "titulo": "Vela de laranja (EXPERIMENTOS de FÍSICA e Biologia)",
+      "url": "https://www.youtube.com/watch?v=s0rA5ZBtkx4&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=203&t=0s"
+    },
+    
+    {
+      "titulo": "Degelo colorido (EXPERIÊNCIA FÁCIL de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=Eg5ZQuSeCto&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=198&t=0s"
+    },
+    {
+      "titulo": "Canhão de ar (vortex cannon - EXPERIÊNCIA de FÍSICA)",
+      "url": "https://www.youtube.com/watch?v=Qp7UgQ4TBkg&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=199&t=0s"
+    },
+    {
+      "titulo": "Barata elétrica (mini robô caseiro) (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=POLHJ01vB5M&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=200&t=0s"
+    },
+    {
+      "titulo": "Como fazer um AR CONDICIONADO CASEIRO com cooler + PET + pilha | EXPERIÊNCIA",
+      "url": "https://www.youtube.com/watch?v=pW0BVqRh404&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=201&t=0s"
+    },
+    {
+      "titulo": "Labirinto elétrico (EXPERIÊNCIA de FÍSICA - FEIRA DE CIÊNCIAS)",
+      "url": "https://www.youtube.com/watch?v=D4KakrCVaI0&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=202&t=0s"
+    },
+    {
+      "titulo": "OVO NA GARRAFA: EXPERIÊNCIA de FÍSICA bem FÁCIL",
+      "url": "https://www.youtube.com/watch?v=v0TCHKHcB8k&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=204&t=0s"
+    },
+    
+    {
+      "titulo": "Como furar um COCO com uma bala 7 Belo (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=0DJBY7BnEaM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=205&t=0s"
+    },
+    {
+      "titulo": "MICROSCÓPIO caseiro com laser (EXPERIÊNCIA de FÍSICA e Biologia) - Homemade microscope",
+      "url": "https://www.youtube.com/watch?v=7HAdiWkltvA&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=206&t=0s"
+    },
+    {
+      "titulo": "O desvio mágico da água (energia estática)",
+      "url": "https://www.youtube.com/watch?v=qVgU_e8c4zM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=207&t=0s"
+    },
+    {
+      "titulo": "O cereal matinal de ferro - como ver o ferro dos alimentos",
+      "url": "https://www.youtube.com/watch?v=tGWSt0lIIps&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=208&t=0s"
+    },
+    {
+      "titulo": "Bolhas explosivas - ELETRÓLISE DA ÁGUA (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=jmVchFkHo4M&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=209&t=0s"
+    },
+    
+    {
+      "titulo": "Concurso! - Torre de Líquidos",
+      "url": "https://www.youtube.com/watch?v=6JCxDhOVKcM&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=210&t=0s"
+    },
+    {
+      "titulo": "O DESAFIO do centro de gravidade (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=PWO-X6CZQXA&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=211&t=0s"
+    },
+    {
+      "titulo": "MINIMOTOR ELÉTRICO (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=B2xetiAp-Xg&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=212&t=0s"
+    },
+    {
+      "titulo": "Fazendo fogueira com o CELULAR (EXPERIÊNCIA)",
+      "url": "https://www.youtube.com/watch?v=Ya68l845jD8&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=213&t=0s"
+    },
+    {
+      "titulo": "Como ENCHER BEXIGA dentro da garrafa sem assoprar - EXPERIÊNCIA de FÍSICA Fácil",
+      "url": "https://www.youtube.com/watch?v=qipY5qVCtCA&list=PL_YN67kxNtJv3WD-q-6KpAJ2wCwzFTn_n&index=214&t=0s"
     }
 
   ]
@@ -2837,60 +2754,389 @@
 },
   "videos": [
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "A MAIOR JIBOIA QUE EU JÁ VI! | VINÍCIUS FERREIRA | EXPEDIÇÃO AMAZÔNIA",
+      "url": "https://www.youtube.com/watch?v=BFs3Ro6b0aM"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "COBRA-BICUDA NA AMAZÔNIA!",
+      "url": "https://www.youtube.com/watch?v=sy_9X3M5XoA"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "ARANHAS COM FILHOTES E MORCEGOS | EXPEDIÇÃO PANTANAL #4",
+      "url": "https://www.youtube.com/watch?v=vhGqyk6aaTI"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "FILHOTE DE JACARÉ E AÇAÍ SELVAGEM!",
+      "url": "https://www.youtube.com/watch?v=Yl2D9JcxLoE"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "EXPEDIÇÃO PANTANAL #3 | ENCONTREI UMA SUCURI | VINÍCIUS FERREIRA",
+      "url": "https://www.youtube.com/watch?v=xeaN4xm7zSw"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "RAPÉ INDÍGENA: A MEDICINA SAGRADA | EXPEDIÇÃO AMAZÔNIA | VINÍCIUS FERREIRA",
+      "url": "https://www.youtube.com/watch?v=bkLXmDRS5-g"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "JARARACA DA AMAZÔNIA!",
+      "url": "https://www.youtube.com/watch?v=n95NAs_tSWE"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "EXPEDIÇÃO PANTANAL #2 | ALIMENTANDO JACARÉS | VINÍCIUS FERREIRA",
+      "url": "https://www.youtube.com/watch?v=ViaqvRQBwLw"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "EXPEDIÇÃO PANTANAL #1 | VÍBORA DO PANTANAL | VINICIUS FERREIRA",
+      "url": "https://www.youtube.com/watch?v=jxuzUeNUmAI"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "UMA CARANGUEJEIRA QUE VIVE NAS ÁRVORES!",
+      "url": "https://www.youtube.com/watch?v=GJqnIyTU2-s"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "BOTO-COR-DE-ROSA!",
+      "url": "https://www.youtube.com/watch?v=KjQ4t_mhR-0"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "MORDIDO POR UM LAGARTO PAPA-VENTO!",
+      "url": "https://www.youtube.com/watch?v=P3TR73QuHjU"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "FILHOTE DE JARARACA!",
+      "url": "https://www.youtube.com/watch?v=5Vqcn0oxRP8"
     },
     {
-      "titulo": "",
-      "url": ""
+      "titulo": "QUATIS NO TIO RICHARD!",
+      "url": "https://www.youtube.com/watch?v=_OrKubPVNxU"
+    },
+    {
+      "titulo": "PEIXE-BOI-DA-AMAZÔNIA!",
+      "url": "https://www.youtube.com/watch?v=zFB45CzxivM"
+    },
+    {
+      "titulo": "SIRI OU CARANGUEJO?",
+      "url": "https://www.youtube.com/watch?v=0xd14JqDjRs"
+    },
+    {
+      "titulo": "JACARÉ-DO-PANTANAL no Acqua Mundo!",
+      "url": "https://www.youtube.com/watch?v=KKvtIDKICGQ"
+    },
+    {
+      "titulo": "CONHEÇA O MACACO-DA-NOITE!",
+      "url": "https://www.youtube.com/watch?v=ILFHj-c5wW8"
+    },
+    {
+      "titulo": "ESCORPIÃO AMAZÔNICO! (com Manaus Selvagem)",
+      "url": "https://www.youtube.com/watch?v=bWLrlKMNnuw"
+    },
+    {
+      "titulo": "PEIXE PIRARUCU NA AMAZÔNIA!",
+      "url": "https://www.youtube.com/watch?v=l0i97ErSRWQ"
+    },
+    {
+      "titulo": "LAGARTO TEIÚ!",
+      "url": "https://www.youtube.com/watch?v=0W8-tyV2Jq0"
+    },
+    {
+      "titulo": "PINÇADO\" POR UM CARANGUEJO CHAMA-MARÉ!",
+      "url": "https://www.youtube.com/watch?v=9HHstmFkNjI"
+    },
+    {
+      "titulo": "BOTO-VERMELHO na Amazônia! (com Richard Rasmussen)",
+      "url": "https://www.youtube.com/watch?v=5hw5pkYYyXk"
+    },
+    {
+      "titulo": "UM LOCAL INFESTADO DE PERERECAS!",
+      "url": "https://www.youtube.com/watch?v=frSvvv_CDtw"
+    },
+    {
+      "titulo": "O bote da SUAÇUBÓIA!",
+      "url": "https://www.youtube.com/watch?v=KrkGLyMlVLI"
+    },
+    {
+      "titulo": "PERERECA-LEITEIRA!",
+      "url": "https://www.youtube.com/watch?v=ARlHk18PigY"
+    },
+    {
+      "titulo": "SALAMANTA, UMA SERPENTE BEM INVOCADA!",
+      "url": "https://www.youtube.com/watch?v=G5KsQ3uGq2k"
+    },
+    {
+      "titulo": "NÃO JOGUE SAL NOS SAPOS! (com Sérgio Rangel)",
+      "url": "https://www.youtube.com/watch?v=1LCe3EgZk7I"
+    },
+    {
+      "titulo": "Papo de Biólogo: ATACADO POR UM PERU / CABRA BELINHA",
+      "url": "https://www.youtube.com/watch?v=IjOqQ5RcZNY"
+    },
+    {
+      "titulo": "Papo de Biólogo: CACATUA",
+      "url": "https://www.youtube.com/watch?v=EyKz4bw-mvo"
+    },
+    {
+      "titulo": "ARANHA-ARMADEIRA no nosso acampamento!",
+      "url": "https://www.youtube.com/watch?v=GK20FOXwPNY"
+    },
+    {
+      "titulo": "FILHOTE DE ARARA-AZUL-DE-LEAR!",
+      "url": "https://www.youtube.com/watch?v=9XGtVuD3IxQ"
+    },
+    {
+      "titulo": "Papo de Biólogo: Mergulho com tubarões! (LAMBARÚ)",
+      "url": "https://www.youtube.com/watch?v=JMklZLxNfaU"
+    },
+    {
+      "titulo": "Papo de Biólogo: Tartaruga-de-ouvido-vermelho",
+      "url": "https://www.youtube.com/watch?v=3kGUSImA_aQ"
+    },
+    {
+      "titulo": "Papo de Biólogo: Pato-mergulhão!",
+      "url": "https://www.youtube.com/watch?v=4OaDSIzNeo8"
+    },
+    {
+      "titulo": "Papo de Biólogo: Trilha FAIL + Mariposa!",
+      "url": "https://www.youtube.com/watch?v=vBW0rInK4Ls"
+    },
+    {
+      "titulo": "Corujinha-do-mato! (GoPro: Daily Vlog)",
+      "url": "https://www.youtube.com/watch?v=2Y1Rys4YanU"
+    },
+    {
+      "titulo": "Papo de Biólogo: Kingsnake \"nigritus\"",
+      "url": "https://www.youtube.com/watch?v=i14Y_11oD6M"
+    },
+    {
+      "titulo": "Papo de Biólogo: Anta (com Richard Rasmussen)",
+      "url": "https://www.youtube.com/watch?v=mTN-l44TPEM"
+    },
+    {
+      "titulo": "Papo de Biólogo: Carcará (RESGATE E SOLTURA)!",
+      "url": "https://www.youtube.com/watch?v=1r8nxqBiqP8"
+    },
+    {
+      "titulo": "Papo de Biólogo: Jararaca (Bothrops jararaca)",
+      "url": "https://www.youtube.com/watch?v=9XifoO4JhFs"
+    },
+    {
+      "titulo": "Papo de Biólogo: Jiboia-do-cerrado e mais bicadas de tucano!",
+      "url": "https://www.youtube.com/watch?v=Z8lHMJW9EQU"
+    },
+    {
+      "titulo": "Bicho-pau e entrevista para o jornal da Escola da Vila!",
+      "url": "https://www.youtube.com/watch?v=N31I0GRiDU8"
+    },
+    {
+      "titulo": "Papo de Biólogo: Lagartixa-de-crista (CRESTED GECKO)!",
+      "url": "https://www.youtube.com/watch?v=wENUv1PHN0E"
+    },
+    {
+      "titulo": "Papo de Biólogo: CURURU E ARANHA-ARMADEIRA!",
+      "url": "https://www.youtube.com/watch?v=-bVxfG5IEds"
+    },
+    {
+      "titulo": "Papo de Biólogo: Em busca da CASCAVEL!",
+      "url": "https://www.youtube.com/watch?v=Cizjv67HEdU"
+    },
+    {
+      "titulo": "Papo de Biólogo: Peixe-palhaço (Nemo)",
+      "url": "https://www.youtube.com/watch?v=WC1COndofVc"
+    },
+    {
+      "titulo": "Papo de Biólogo: Jabuti!",
+      "url": "https://www.youtube.com/watch?v=RkJAri3MFQA"
+    },
+    {
+      "titulo": "Papo de Biólogo: Cracas e Caranguejos",
+      "url": "https://www.youtube.com/watch?v=wvhhdgBcs38"
+    },
+    {
+      "titulo": "Papo de Biólogo: Tarântula (Brachypelma smithi)",
+      "url": "https://www.youtube.com/watch?v=t0MP6EqPk0M"
+    },
+    {
+      "titulo": "Papo de Biólogo: Arara-canindé",
+      "url": "https://www.youtube.com/watch?v=ss2bpGd5_lw"
+    },
+    {
+      "titulo": "Papo de Biólogo: Jacaré-de-papo-amarelo",
+      "url": "https://www.youtube.com/watch?v=bXlGTNkoZ-w"
+    },
+    {
+      "titulo": "Papo de Biólogo: As Pererecas!",
+      "url": "https://www.youtube.com/watch?v=1QodnchkSu4"
+    },
+    {
+      "titulo": "Papo de Biólogo: Axolote (Axolotl)",
+      "url": "https://www.youtube.com/watch?v=Mxm69qPZx3M"
+    },
+    {
+      "titulo": "Papo de Biólogo: Tartaruga-mordedora",
+      "url": "https://www.youtube.com/watch?v=KoboxBhzLPw"
+    },
+    {
+      "titulo": "Papo de Biólogo: Jiboia-amazônica",
+      "url": "https://www.youtube.com/watch?v=S7MgZKWGbAw"
+    },
+    {
+      "titulo": "Papo de Biólogo: Profissão Biólogo",
+      "url": "https://www.youtube.com/watch?v=99XTdKWNyMo"
+    },
+    {
+      "titulo": "Papo de Biólogo: Cobra-do-milharal",
+      "url": "https://www.youtube.com/watch?v=7gZKwO0qxoE"
+    },
+    {
+      "titulo": "Papo de Biólogo: Lagartixa-leopardo",
+      "url": "https://www.youtube.com/watch?v=LUANfgQUUXo"
+    },
+    {
+      "titulo": "Papo de Biólogo: Escorpiões",
+      "url": "https://www.youtube.com/watch?v=gps3EASGUFk"
+    },
+    {
+      "titulo": "Papo de Biólogo: Dragão-barbudo (Pogona vitticeps)",
+      "url": "https://www.youtube.com/watch?v=f_q1ev5CLLU"
+    },
+    {
+      "titulo": "Papo de Biólogo: Barata-gigante-de-madagascar",
+      "url": "https://www.youtube.com/watch?v=EUZxyk9hye8"
+    },
+    {
+      "titulo": "Papo de Biólogo: Fui gravar sobre o Tucano-toco... Não deu muito certo.",
+      "url": "https://www.youtube.com/watch?v=iJTsDvL66RU"
+    },
+    {
+      "titulo": "Papo de Biólogo: Coruja Suindara!",
+      "url": "https://www.youtube.com/watch?v=jvwoluJtoBE"
+    },
+    {
+      "titulo": "Papo de Biólogo: Ratos e a Peste Negra",
+      "url": "https://www.youtube.com/watch?v=IXJWS8GpL44"
+    },
+    {
+      "titulo": "Papo de Biólogo: Aranhas Caranguejeiras",
+      "url": "https://www.youtube.com/watch?v=9-cJwVhQ6mU"
+    },
+    {
+      "titulo": "Papo de Biólogo: Bicho-Pau-de-Espinhos-Gigante!",
+      "url": "https://www.youtube.com/watch?v=CCbbNnUqc50"
+    },
+    {
+      "titulo": "INSETO MUITO ESQUISITO  | BICHO PAU AUSTRALIANO | PAPO DE BIÓLOGO",
+      "url": "https://www.youtube.com/watch?v=qzUdq5FpYo4&t=2s" 
+    },
+    {
+      "titulo": "QUAL FOI MEU PRIMEIRO BICHO? | TIO VINI RESPONDE | PAPO DE BIÓLOGO",
+      "url": "https://www.youtube.com/watch?v=SSZWA6eIwuE"
+    },
+    {
+      "titulo": "BABY SHARK | OVO DE TUBARÃO | TOP SECRET | PAPO DE BIÓLOGO",
+      "url": "https://www.youtube.com/watch?v=1mKMYciS0MY"
+    },
+    {
+      "titulo": "TIO VINI RESPONDE | PERGUNTAS DOS INSCRITOS | PAPO DE BIÓLOGO",
+      "url": "https://www.youtube.com/watch?v=mSm1uTrvcOM"
+    },
+    {
+      "titulo": "UM COELHO EM MINIATURA | COMO É TER UM MINI COELHO | PAPO DE BIÓLOGO",
+      "url": "https://www.youtube.com/watch?v=WfVxgMGDqkw"
+    },
+    {
+      "titulo": "A MAIOR JIBOIA QUE EU JÁ VI! | VINÍCIUS FERREIRA | EXPEDIÇÃO AMAZÔNIA",
+      "url": "https://www.youtube.com/watch?v=BFs3Ro6b0aM"
+    },
+    {
+      "titulo": "RITUAL DA FORMIGA | FUI PARAR NO HOSPITAL!",
+      "url": "https://www.youtube.com/watch?v=yt73GdVK1qc"
+    },
+    {
+      "titulo": "Papo de Biólogo: Porquinho-da-índia",
+      "url": "https://www.youtube.com/watch?v=BBXZE5HSu-0"
+    },
+    {
+      "titulo": "Papo de Biólogo: CACATUA",
+      "url": "https://www.youtube.com/watch?v=EyKz4bw-mvo"
+    },
+    {
+      "titulo": "Papo de Biólogo: Hedgehog (Ouriço Pigmeu Africano)",
+      "url": "https://www.youtube.com/watch?v=yw7CibBxVzk"
+    },
+    {
+      "titulo": "UMA COBRA BEBÊ | MITOS E VERDADES | PAPO DE BIÓLOGO",
+      "url": "https://www.youtube.com/watch?v=hzfRaBYypaM"
+    },
+    {
+      "titulo": "UM ANIMAL CENTENÁRIO | TARTARUGA OU JABUTI ? | PAPO DE BIÓLOGO",
+      "url": "https://www.youtube.com/watch?v=ZCcYE5RsZas"
+    },
+    {
+      "titulo": "COMO É TER UMA COBRA? | CORN SNAKE | PAPO DE BIÓLOGO",
+      "url": "https://www.youtube.com/watch?v=ZLIlD9_i2lk"
+    },
+    {
+      "titulo": "O CAMALEÃO MUDOU DE COR? | PAPO DE BIÓLOGO",
+      "url": "https://www.youtube.com/watch?v=3dVRZzh_4JQ"
+    },
+    {
+      "titulo": "A MAIOR ARANHA DO MUNDO! | VINÍCIUS FERREIRA",
+      "url": "https://www.youtube.com/watch?v=F8sfuiGe2AU"
+    },
+    {
+      "titulo": "TOP 3 COBRAS MAIS FAMOSAS DO BRASIL!",
+      "url": "https://www.youtube.com/watch?v=KHJQIRFC_PY"
+    },
+    {
+      "titulo": "O DIA QUE UMA ARANHA QUASE ME MATOU DO CORAÇÃO | PAPO DE BIÓLOGO",
+      "url": "https://www.youtube.com/watch?v=PokfbjQyG7U"
+    },
+    {
+      "titulo": "VLOGÃO DO BICHO-PAU! | PAPO DE BIÓLOGO | EXPEDIÇÃO AMAZÔNIA",
+      "url": "https://www.youtube.com/watch?v=JcsJYpQUIBQ"
+    },
+    {
+      "titulo": "Papo de Biólogo: Axolote (Axolotl)",
+      "url": "https://www.youtube.com/watch?v=Mxm69qPZx3M&t=1s"
+    },
+    {
+      "titulo": "Papo de Biólogo: Píton birmanesa (Python molurus",
+      "url": "https://www.youtube.com/watch?v=jaliUyEuacc"
+    },
+    {
+      "titulo": "Papo de Biólogo: Escorpiões",
+      "url": "https://www.youtube.com/watch?v=gps3EASGUFk"
+    },
+    {
+      "titulo": "Papo de Biólogo: Tarântula (Brachypelma smithi)",
+      "url": "https://www.youtube.com/watch?v=t0MP6EqPk0M"
+    },
+    {
+      "titulo": "LAGARTO TEIÚ!",
+      "url": "https://www.youtube.com/watch?v=0W8-tyV2Jq0"
+    },
+
+    {
+      "titulo": "FUI CHICOTEADO PELOS ÍNDIOS! | PAPO DE BIÓLOGO | EXPEDIÇÃO AMAZÔNIA",
+      "url": "https://www.youtube.com/watch?v=i_vsfc21pC8"
+    },
+    {
+      "titulo": "UMA CAVERNA CHEIA DE ANIMAIS! | PAPO DE BIÓLOGO",
+      "url": "https://www.youtube.com/watch?v=slikofJIslI"
+    },
+    {
+      "titulo": "A MAIOR LAGARTIXA QUE VOCÊ JÁ VIU!",
+      "url": "https://www.youtube.com/watch?v=w2Lk2GwvBMM"
+    },
+    {
+      "titulo": "UM BEBÊ DE ARARA AZUL | PAPO DE BIÓLOGO",
+      "url": "https://www.youtube.com/watch?v=yIEFU7yioO4"
+    },
+    {
+      "titulo": "AMBLIPÍGIO: ASSUSTADOR E INOFENSIVO! | EXPEDIÇÃO AMAZÔNIA | PAPO DE BIÓLOGO",
+      "url": "https://www.youtube.com/watch?v=Lf7WR9ggGVk"
+    },
+    {
+      "titulo": "SERÁ QUE O RITUAL DA FORMIGA DOEU?! | VINÍCIUS FERREIRA",
+      "url": "https://www.youtube.com/watch?v=4rhV8zYzohk"
     }
   ]
 }
