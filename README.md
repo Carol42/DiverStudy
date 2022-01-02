@@ -24,15 +24,15 @@
 </h4>
 
 <div align="center">
-<img src="./src/assets/img/Captura de tela 1.png">
+<img src="./src/assets/img/Captura de tela 1.png" width="80%">
 </div>
 
 <details>
     <summary>Sumário</summary>
     <ol>
         <li><a href="#pushpin-sobre">Sobre</a></li>
-        <li><a href="#hammer_and_wrench-tecnologias-utilizadas">Tecnologias utilizadas</a></li>
         <li><a href="#diving_mask-a-imersão">A Imersão</a></li>
+        <li><a href="#hammer_and_wrench-tecnologias-utilizadas">Tecnologias utilizadas</a></li>
         <li><a href="#computer-como-baixar-e-rodar-o-projeto">Como baixar e rodar o projeto</a>
             <ul>
                 <li><a href="#bulb-pré-requisitos">Pré requisitos</a></li>
@@ -57,7 +57,7 @@ Em tempos de fake news e desinformação, torna-se essencial a divulgação de i
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=890089&style=flat&logo" alt="voltar ao topo" /></a></p>
 
 <div align="center">
-<img src="./src/assets/img/Captura de tela 2.png">
+<img src="./src/assets/img/Captura de tela 2.png" width="80%">
 </div>
 
 ## :diving_mask: A Imersão
@@ -69,7 +69,7 @@ O evento ocorreu entre os dias 27 e 31 de julho e tinha como objetivo de apresen
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=890089&style=flat&logo" alt="voltar ao topo" /></a></p>
 
 <div align="center">
-<img src="./src/assets/img/anim-diverstudy.gif">
+<img src="./src/assets/img/anim-diverstudy.gif" width="80%">
 </div>
 
 ## :hammer_and_wrench: Tecnologias utilizadas
