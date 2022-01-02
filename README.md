@@ -1,7 +1,7 @@
 <div id="topo"></div>
 <h1 align="center">
 <img src="./src/assets/img/book.png" width="10%" alt="livros">
-<img src="./src/assets/img/Logo.png" width="60%" alt="diverstudy">
+<img src="./src/assets/img/Logo.png" width="50%" alt="diverstudy">
 </h1>
 <h2 align='center' >Estudar pode ser divertido!</h2>
 <p align="center"><i>“The roots of education are bitter, but the fruit is sweet.” – Aristóteles</i> </p>
@@ -19,20 +19,20 @@
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/DiverStudy?style=social">
 </div>
 
-<div align="center">
-<img src="./src/assets/img/Captura de tela 1.png">
-</div>
-
 <h3 align="center">:link: <a href="https://diver-study-ewkrfsz1p.vercel.app/">Acessar a demonstração</a></h3>
 <h4 align="center">:us::gb: <a href="./README-en.md">Go to the English version of this README »</a>
 </h4>
+
+<div align="center">
+<img src="./src/assets/img/Captura de tela 1.png">
+</div>
 
 <details>
     <summary>Sumário</summary>
     <ol>
         <li><a href="#pushpin-sobre">Sobre</a></li>
         <li><a href="#hammer_and_wrench-tecnologias-utilizadas">Tecnologias utilizadas</a></li>
-        <li><a href="#dinving_mask-a-imersão">A Imersão</a></li>
+        <li><a href="#diving_mask-a-imersão">A Imersão</a></li>
         <li><a href="#computer-como-baixar-e-rodar-o-projeto">Como baixar e rodar o projeto</a>
             <ul>
                 <li><a href="#bulb-pré-requisitos">Pré requisitos</a></li>
@@ -68,6 +68,9 @@ O evento ocorreu entre os dias 27 e 31 de julho e tinha como objetivo de apresen
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=890089&style=flat&logo" alt="voltar ao topo" /></a></p>
 
+<div align="center">
+<img src="./src/assets/img/anim-diverstudy.gif">
+</div>
 
 ## :hammer_and_wrench: Tecnologias utilizadas
 
