@@ -20,6 +20,7 @@
 </div>
 
 <h3 align="center">:link: <a href="https://diver-study-ewkrfsz1p.vercel.app/">Go to the preview (Vercel)</a></h3>
+<h3 align="center">:link: <a href="https://github.com/Carol42/Disnil">Go to my 2<sup>nd</sup> project based on Alura's Imersão React</a></h3>
 <h4 align="center">:brazil: <a href="./README.md">Ir para a versão em Português deste README »</a>
 </h4>
 
@@ -64,7 +65,9 @@ In times of fake news and disinformation, it's essential the spread of trustful 
 
 This project has been developed during the <a href="https://www.alura.com.br/imersao-react">Imersão React</a> organized by <a href="https://www.alura.com.br/">Alura</a> and taught by the instructors <a href="https://twitter.com/juunegreiros">Juliana Negreiros</a>, <a href="https://twitter.com/marcobrunodev">Marco Bruno</a> and <a href="https://twitter.com/omariosouto">Mario Souto</a>, with the special guest <a href="https://twitter.com/paulo_caelum">Paulo Silveira</a>.
 
-The event was featured between the 27th and 31st of July 2020 and aimed to introduce the basic React concepts to develop a Netflix inspired application. The idea was to create your own video repository with the topic of your interest. One of my biggest interests is knowledge democratization, so that's the result! :)
+The event was featured between the 27<sup>th</sup> and 31<sup>st</sup> of July 2020 and aimed to introduce the basic React concepts to develop a Netflix inspired application. The idea was to create your own video repository with the topic of your interest. One of my biggest interests is knowledge democratization, so that's the result! :)
+
+Inspired by the project developed during the Immersion, I also developed the <a href="https://github.com/Carol42/Disnil">Disnil</a>, a "Nilce Moretto's Netflix".The idea came from a joke from <a href="https://www.instagram.com/nilmoretto/">@nilmoretto</a>'s story.
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=890089&style=flat&logo" alt="back to top" /></a></p>
 
