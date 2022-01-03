@@ -20,6 +20,7 @@
 </div>
 
 <h3 align="center">:link: <a href="https://diver-study-ewkrfsz1p.vercel.app/">Acessar a demonstração</a></h3>
+<h3 align="center">:link: <a href="https://github.com/Carol42/Disnil">Acessar meu 2º projeto baseado na Imersão React da Alura</a></h3>
 <h4 align="center">:us::gb: <a href="./README-en.md">Go to the English version of this README »</a>
 </h4>
 
