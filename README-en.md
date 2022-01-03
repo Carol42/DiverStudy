@@ -20,7 +20,7 @@
 </div>
 
 <h3 align="center">:link: <a href="https://diver-study-ewkrfsz1p.vercel.app/">Go to the preview (Vercel)</a></h3>
-<h4 align="center">:brazil: <a href="./README-en.md">Ir para a versão em Português deste README »</a>
+<h4 align="center">:brazil: <a href="./README.md">Ir para a versão em Português deste README »</a>
 </h4>
 
 <div align="center" alt="homepage screenshot">
