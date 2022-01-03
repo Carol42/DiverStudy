@@ -64,7 +64,7 @@ Em tempos de fake news e desinformação, torna-se essencial a divulgação de i
 
 Esse projeto foi desenvolvido durante a <a href="https://www.alura.com.br/imersao-react">Imersão React</a> proposta pela <a href="https://www.alura.com.br/">Alura</a> e ministrada pelos instrutores <a href="https://twitter.com/juunegreiros">Juliana Negreiros</a>, <a href="https://twitter.com/marcobrunodev">Marco Bruno</a> e <a href="https://twitter.com/omariosouto">Mario Souto</a>, com a participação especial de <a href="https://twitter.com/paulo_caelum">Paulo Silveira</a>.
 
-O evento ocorreu entre os dias 27 e 31 de julho e tinha como objetivo de apresentar conceitos básicos de React para construirmos uma aplicação inspirada na Netflix. A ideia era criar o seu próprio agregado de vídeos com assuntos de seu interesse. Como um de meus maiores interesses é a democratização do conhecimento, esse foi o resultado :)
+O evento ocorreu entre os dias 27 e 31 de julho de 2020 e tinha como objetivo de apresentar conceitos básicos de React para construirmos uma aplicação inspirada na Netflix. A ideia era criar o seu próprio agregado de vídeos com assuntos de seu interesse. Como um de meus maiores interesses é a democratização do conhecimento, esse foi o resultado :)
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=890089&style=flat&logo" alt="voltar ao topo" /></a></p>
 
