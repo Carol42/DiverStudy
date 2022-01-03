@@ -28,7 +28,7 @@
 </div>
 
 <details>
-    <summary>Sumário</summary>
+    <summary>Table of Contents</summary>
     <ol>
         <li><a href="#pushpin-about">About</a></li>
         <li><a href="#diving_mask-the-immersion">The Immersion</a></li>
