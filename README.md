@@ -67,6 +67,8 @@ Esse projeto foi desenvolvido durante a <a href="https://www.alura.com.br/imersa
 
 O evento ocorreu entre os dias 27 e 31 de julho de 2020 e tinha como objetivo de apresentar conceitos básicos de React para construirmos uma aplicação inspirada na Netflix. A ideia era criar o seu próprio agregado de vídeos com assuntos de seu interesse. Como um de meus maiores interesses é a democratização do conhecimento, esse foi o resultado :)
 
+Baseado no projeto da Imersão eu também desenvolvi a <a href="https://github.com/Carol42/Disnil">Disnil</a>, uma "Netflix de Nilce Moretto". A ideia surgiu a partir de uma brincadeira de <a href="https://www.instagram.com/nilmoretto/">@nilmoretto</a> em seu story.
+
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=890089&style=flat&logo" alt="voltar ao topo" /></a></p>
 
 <div align="center">
