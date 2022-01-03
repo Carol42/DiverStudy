@@ -31,8 +31,8 @@
     <summary>Sumário</summary>
     <ol>
         <li><a href="#pushpin-about">About</a></li>
-        <li><a href="#hammer_and_wrench-technologies">Technologies</a></li>
         <li><a href="#diving_mask-the-immersion">The Immersion</a></li>
+        <li><a href="#hammer_and_wrench-technologies">Technologies</a></li>
         <li><a href="#computer-how-to-download-and-run-the-project">How to download and run the project</a>
             <ul>
                 <li><a href="#bulb-prerequisites">Prerequisites</a></li>
