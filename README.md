@@ -55,11 +55,11 @@ Também tenho por objetivo fazer com que mais pessoas tenham interesse por busca
 
 Em tempos de fake news e desinformação, torna-se essencial a divulgação de informações confiáveis e bem embasadas, assim como o estímulo às pessoas terem o interesse e a curiosidade de consumí-las.
 
-<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=890089&style=flat&logo" alt="voltar ao topo" /></a></p>
-
 <div align="center">
 <img src="./src/assets/img/Captura de tela 2.png" width="80%">
 </div>
+
+<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=890089&style=flat&logo" alt="voltar ao topo" /></a></p>
 
 ## :diving_mask: A Imersão
 
@@ -69,11 +69,11 @@ O evento ocorreu entre os dias 27 e 31 de julho de 2020 e tinha como objetivo de
 
 Baseado no projeto da Imersão eu também desenvolvi a <a href="https://github.com/Carol42/Disnil">Disnil</a>, uma "Netflix de Nilce Moretto". A ideia surgiu a partir de uma brincadeira de <a href="https://www.instagram.com/nilmoretto/">@nilmoretto</a> em seu story.
 
-<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=890089&style=flat&logo" alt="voltar ao topo" /></a></p>
-
 <div align="center">
 <img src="./src/assets/img/anim-diverstudy.gif" width="80%">
 </div>
+
+<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=890089&style=flat&logo" alt="voltar ao topo" /></a></p>
 
 ## :hammer_and_wrench: Tecnologias utilizadas
 
