@@ -25,7 +25,7 @@
 </h4>
 
 <div align="center" alt="homepage screenshot">
-<img src="./src/assets/img/Captura de tela 1.png">
+<img src="./src/assets/img/Captura de tela 1.png" width="80%">
 </div>
 
 <details>
@@ -56,7 +56,7 @@ I also want to make people interested in looking for knowledge and learning. Mak
 In times of fake news and disinformation, it's essential the spread of trustful information, as well as the stimuli to get interested and curious about them.
 
 <div align="center">
-<img src="./src/assets/img/Captura de tela 2.png">
+<img src="./src/assets/img/Captura de tela 2.png" width="80%"/>
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=890089&style=flat&logo" alt="back to top" /></a></p>
@@ -70,7 +70,7 @@ The event was featured between the 27<sup>th</sup> and 31<sup>st</sup> of July 2
 Inspired by the project developed during the Immersion, I also developed the <a href="https://github.com/Carol42/Disnil">Disnil</a>, a "Nilce Moretto's Netflix".The idea came from a joke from <a href="https://www.instagram.com/nilmoretto/">@nilmoretto</a>'s story.
 
 <div align="center">
-<img src="./src/assets/img/anim-diverstudy.gif">
+<img src="./src/assets/img/anim-diverstudy.gif" width="80%">
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=890089&style=flat&logo" alt="back to top" /></a></p>
