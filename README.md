@@ -83,6 +83,7 @@ Baseado no projeto da Imersão eu também desenvolvi a <a href="https://github.c
 - [Styled Components](https://styled-components.com/)
 - [Concurrently](https://www.npmjs.com/package/concurrently)
 - [prop-types](https://www.npmjs.com/package/prop-types)
+- [react-slick](https://www.npmjs.com/package/react-slick)
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=890089&style=flat&logo" alt="voltar ao topo" /></a></p>
 
