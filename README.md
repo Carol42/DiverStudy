@@ -1,5 +1,8 @@
+<style>
+    .purple {color: #800080}
+</style>
+
 <div id="topo"></div>
-<style>.purple{color: #800080;}</style>
 <h1 align="center">
 <img src="./src/assets/img/book.png" width="10%" alt="livros">
 <img src="./src/assets/img/Logo.png" width="50%" alt="diverstudy">
@@ -20,7 +23,7 @@
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/DiverStudy?style=social">
 </div>
 
-<h3 class="purple" align="center">:link: <a href="https://diver-study-ewkrfsz1p.vercel.app/">Acessar a demonstração</a></h3>
+<h3 class="purple" align="center">:link: <a class="purple" href="https://diver-study-ewkrfsz1p.vercel.app/">Acessar a demonstração</a></h3>
 <h3 align="center">:link: <a href="https://github.com/Carol42/Disnil">Acessar meu 2º projeto baseado na Imersão React da Alura</a></h3>
 <h4 align="center">:us::gb: <a href="./README-en.md">Go to the English version of this README »</a>
 </h4>
