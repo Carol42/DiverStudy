@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-    .purple {color: #800080}
-</style>
-</head>
-<body>
 <div id="topo"></div>
 <h1 align="center">
 <img src="./src/assets/img/book.png" width="10%" alt="livros">
@@ -27,7 +19,7 @@
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/DiverStudy?style=social">
 </div>
 
-<h3 class="purple" align="center">:link: <a class="purple" href="https://diver-study-ewkrfsz1p.vercel.app/">Acessar a demonstração</a></h3>
+<h3 align="center">:link: <a href="https://diver-study-ewkrfsz1p.vercel.app/">Acessar a demonstração</a></h3>
 <h3 align="center">:link: <a href="https://github.com/Carol42/Disnil">Acessar meu 2º projeto baseado na Imersão React da Alura</a></h3>
 <h4 align="center">:us::gb: <a href="./README-en.md">Go to the English version of this README »</a>
 </h4>
@@ -134,5 +126,3 @@ $ npm run dev
 <a href="mailto:carol42.helo@gmail.com"><img src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=plastic&logo=gmail" alt="link para me mandar um e-mail" /></a>
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=890089&style=flat&logo" alt="voltar ao topo" /></a></p>
-</body>
-</html>
