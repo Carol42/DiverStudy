@@ -1,8 +1,11 @@
 <!DOCTYPE html>
+<html>
+<head>
 <style>
     .purple {color: #800080}
 </style>
-
+</head>
+<body>
 <div id="topo"></div>
 <h1 align="center">
 <img src="./src/assets/img/book.png" width="10%" alt="livros">
@@ -131,3 +134,5 @@ $ npm run dev
 <a href="mailto:carol42.helo@gmail.com"><img src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=plastic&logo=gmail" alt="link para me mandar um e-mail" /></a>
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=890089&style=flat&logo" alt="voltar ao topo" /></a></p>
+</body>
+</html>
