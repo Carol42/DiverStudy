@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <style>
     .purple {color: #800080}
 </style>
