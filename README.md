@@ -7,12 +7,13 @@
 <p align="center"><i>“The roots of education are bitter, but the fruit is sweet.” – Aristóteles</i> </p>
 
 <div align="center">
-    <img alt="project's license" src="https://img.shields.io/github/license/Carol42/DiverStudy?style=plastic">
+    <img alt="project's license" src="https://img.shields.io/github/license/Carol42/DiverStudy?style=plastic&color=890089">
      <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=890089&style=plastic&logo=" alt="PRs welcome" />
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/DiverStudy?color=181717&logo=github&style=plastic&logoColor=181717">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Carol42/DiverStudy?color=%23F7DF1E&logo=javascript&style=plastic">
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Carol42/DiverStudy?&style=plastic&color=F05032&logo=git">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Carol42/DiverStudy?color=F05032&logo=git&logoColor&style=plastic">
+    <img alt="date created" src="https://badges.pufler.dev/created/Carol42/DiverStudy?style=plastic&color=890089">
     <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/Carol42/DiverStudy?color=890089&style=plastic">
 </div>
 <div align="center">
