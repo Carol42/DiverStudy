@@ -1,7 +1,7 @@
 <div id="topo"></div>
 <h1 align="center">
-<img src="./src/assets/img/book.png" width="10%" alt="livros">
-<img src="./src/assets/img/Logo.png" width="50%" alt="diverstudy">
+<img src="https://github.com/Carol42/DiverStudy/blob/main/src/assets/img/book.png" width="10%" alt="livros">
+<img src="https://github.com/Carol42/DiverStudy/blob/main/src/assets/img/Logo.png" width="50%" alt="diverstudy">
 </h1>
 <h2 align='center' >Estudar pode ser divertido!</h2>
 <p align="center"><i>“The roots of education are bitter, but the fruit is sweet.” – Aristóteles</i> </p>
@@ -22,11 +22,13 @@
 
 <h3 align="center">:link: <a href="https://diver-study-ewkrfsz1p.vercel.app/">Acessar a demonstração</a></h3>
 <h3 align="center">:link: <a href="https://github.com/Carol42/Disnil">Acessar meu 2º projeto baseado na Imersão React da Alura</a></h3>
-<h4 align="center">:us::gb: <a href="./README-en.md">Go to the English version of this README »</a>
-</h4>
-
+<!--<h4 align="center">:us::gb: <a href="./README-en.md">Go to the English version of this README »</a></h4>-->
+<table align="right">
+ <tr><td><a href="https://github.com/Carol42/DiverStudy/blob/main/README-en.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/DiverStudy/blob/main/README.md">:brazil: Português</a></td></tr>
+</table>
 <div align="center">
-<img src="./src/assets/img/Captura de tela 1.png" width="80%">
+<img alt="screenshot da página inicial" src="https://github.com/Carol42/DiverStudy/blob/main/src/assets/img/screenshot-1.png" width="80%">
 </div>
 
 <details>
@@ -57,7 +59,7 @@ Também tenho por objetivo fazer com que mais pessoas tenham interesse por busca
 Em tempos de fake news e desinformação, torna-se essencial a divulgação de informações confiáveis e bem embasadas, assim como o estímulo às pessoas terem o interesse e a curiosidade de consumí-las.
 
 <div align="center">
-<img src="./src/assets/img/Captura de tela 2.png" width="80%">
+<img alt="screenshot da aplicação" src="https://github.com/Carol42/DiverStudy/blob/main/src/assets/img/screenshot-2.png" width="80%">
 </div>
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=890089&style=flat&logo" alt="voltar ao topo" /></a></p>
@@ -71,7 +73,7 @@ O evento ocorreu entre os dias 27 e 31 de julho de 2020 e tinha como objetivo de
 Baseado no projeto da Imersão eu também desenvolvi a <a href="https://github.com/Carol42/Disnil">Disnil</a>, uma "Netflix de Nilce Moretto". A ideia surgiu a partir de uma brincadeira de <a href="https://www.instagram.com/nilmoretto/">@nilmoretto</a> em seu story.
 
 <div align="center">
-<img src="./src/assets/img/anim-diverstudy.gif" width="80%">
+<img src="https://github.com/Carol42/DiverStudy/blob/main/src/assets/img/anim-diverstudy.gif" width="80%">
 </div>
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=890089&style=flat&logo" alt="voltar ao topo" /></a></p>
