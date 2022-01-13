@@ -6,27 +6,25 @@
 <h2 align='center' >Studying can be fun!</h2>
 <p align="center"><i>“The roots of education are bitter, but the fruit is sweet.” – Aristotle</i> </p>
 
-<div align="center">
-    <img alt="project's license" src="https://img.shields.io/github/license/Carol42/DiverStudy?style=plastic">
+<table align="right">
+ <tr><td><a href="https://github.com/Carol42/DiverStudy/blob/main/README-en.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/DiverStudy/blob/main/README.md">:brazil: Português</a></td></tr>
+</table>
+<span>&nbsp;</span>
+<div>
+    <img alt="project's license" src="https://img.shields.io/github/license/Carol42/DiverStudy?style=plastic&color=890089">
      <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=890089&style=plastic&logo=" alt="PRs welcome" />
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/DiverStudy?color=181717&logo=github&style=plastic&logoColor=181717">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Carol42/DiverStudy?color=%23F7DF1E&logo=javascript&style=plastic">
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Carol42/DiverStudy?&style=plastic&color=F05032&logo=git">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Carol42/DiverStudy?color=F05032&logo=git&logoColor&style=plastic">
     <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/Carol42/DiverStudy?color=890089&style=plastic">
-</div>
-<div align="center">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/DiverStudy?style=social">
 </div>
 
 <h3 align="center">:link: <a href="https://diver-study-ewkrfsz1p.vercel.app/">Go to the preview (Vercel)</a></h3>
 <h3 align="center">:link: <a href="https://github.com/Carol42/Disnil">Go to my 2<sup>nd</sup> project based on Alura's Imersão React</a></h3>
 <!--<h4 align="center">:brazil: <a href="./README.md">Ir para a versão em Português deste README »</a></h4>-->
-
-<table align="right">
- <tr><td><a href="https://github.com/Carol42/DiverStudy/blob/main/README-en.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/DiverStudy/blob/main/README.md">:brazil: Português</a></td></tr>
-</table>
 
 <div align="center">
 <img alt="homepage screenshot" src="https://github.com/Carol42/DiverStudy/blob/main/src/assets/img/screenshot-1.png" width="80%">
