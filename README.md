@@ -5,8 +5,12 @@
 </h1>
 <h2 align='center' >Estudar pode ser divertido!</h2>
 <p align="center"><i>“The roots of education are bitter, but the fruit is sweet.” – Aristóteles</i> </p>
-
-<div align="center">
+<table align="right">
+ <tr><td><a href="https://github.com/Carol42/DiverStudy/blob/main/README-en.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/DiverStudy/blob/main/README.md">:brazil: Português</a></td></tr>
+</table>
+<span>&nbsp;</span>
+<div>
     <img alt="project's license" src="https://img.shields.io/github/license/Carol42/DiverStudy?style=plastic&color=890089">
      <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=890089&style=plastic&logo=" alt="PRs welcome" />
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/DiverStudy?color=181717&logo=github&style=plastic&logoColor=181717">
@@ -15,18 +19,13 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Carol42/DiverStudy?color=F05032&logo=git&logoColor&style=plastic">
     <img alt="date created" src="https://badges.pufler.dev/created/Carol42/DiverStudy?style=plastic&color=890089">
     <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/Carol42/DiverStudy?color=890089&style=plastic">
-</div>
-<div align="center">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/DiverStudy?style=social">
 </div>
 
 <h3 align="center">:link: <a href="https://diver-study-ewkrfsz1p.vercel.app/">Acessar a demonstração</a></h3>
 <h3 align="center">:link: <a href="https://github.com/Carol42/Disnil">Acessar meu 2º projeto baseado na Imersão React da Alura</a></h3>
 <!--<h4 align="center">:us::gb: <a href="./README-en.md">Go to the English version of this README »</a></h4>-->
-<table align="right">
- <tr><td><a href="https://github.com/Carol42/DiverStudy/blob/main/README-en.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/DiverStudy/blob/main/README.md">:brazil: Português</a></td></tr>
-</table>
+
 <div align="center">
 <img alt="screenshot da página inicial" src="https://github.com/Carol42/DiverStudy/blob/main/src/assets/img/screenshot-1.png" width="80%">
 </div>
