@@ -1,7 +1,7 @@
 <div id="topo"></div>
 <h1 align="center">
 <img src="https://github.com/Carol42/DiverStudy/blob/main/src/assets/img/book.png" width="10%" alt="livros">
-<img src="https://github.com/Carol42/DiverStudy/blob/main/src/assets/img/Logo.png" width="50%" alt="diverstudy">
+<img src="https://github.com/Carol42/DiverStudy/blob/main/src/assets/img/Logo.png" width="50%" alt="diverstudy"> 
 </h1>
 <h2 align='center' >Estudar pode ser divertido!</h2>
 <p align="center"><i>“The roots of education are bitter, but the fruit is sweet.” – Aristóteles</i> </p>
